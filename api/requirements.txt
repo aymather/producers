@@ -1,0 +1,9 @@
+Flask
+gunicorn
+tidalapi
+pandas
+datetime
+requests
+numpy
+simplejson
+flask-cors
