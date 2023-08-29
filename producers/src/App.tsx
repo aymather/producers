@@ -1,4 +1,3 @@
-import './App.scss'
 import { Auth } from './components/Auth'
 import { ThemeProvider } from './mui'
 import { CssBaseline } from '@mui/material'

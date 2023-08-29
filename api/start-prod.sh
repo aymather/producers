@@ -1,1 +1,1 @@
-python3.10 -m gunicorn -b 127.0.0.1:8080 --log-level debug -w 4 app:app
+python3.10 -m gunicorn -b 127.0.0.1:8080 -w 4 app:app
