@@ -6,6 +6,32 @@ import requests
 import json
 
 
+TOKEN_FULLFILE = './tidal-oauth.json'
+
+def refresh_tidal_token(session):
+
+    """
+    
+        @param session: The tidal session object to refresh the token for.
+
+        This function refreshes the token for the given session and writes the new token
+        to the JSON file.
+    
+    """
+
+    refresh_token = session.refresh_token
+    session.token_refresh(refresh_token)
+
+    token = {
+        'access_token': session.access_token,
+        'refresh_token': session.refresh_token,
+        'expiry_time': session.expiry_time,
+        'token_type': session.token_type
+    }
+
+    json_stringify(token, TOKEN_FULLFILE)
+
+
 def datetime_serializer(obj):
     if isinstance(obj, datetime):
         return obj.isoformat()
@@ -19,7 +45,8 @@ def json_stringify(obj, fullfile):
         @param obj: The object to stringify.
         @param fullfile: The full path to the file to write the JSON to.
 
-        This function takes in an object and returns a JSON string representation of it.
+        This function takes in an object and writes a json file to the specified path
+        with the contents of the dict.
     
     """
 
@@ -98,7 +125,7 @@ def init_tidal_session():
 
     # Init a session with your token
     session = tidalapi.Session()
-    token = json_parse('token.json')
+    token = json_parse(TOKEN_FULLFILE)
     session.load_oauth_session(token['token_type'], token['access_token'], token['refresh_token'], token['expiry_time'])
     return session, token
 
@@ -149,24 +176,19 @@ def get_artist_credits_from_tidal(artist_id):
         return credits
 
 def search_artists(search_term):
+
     session, token = init_tidal_session()
     artists = session.search(search_term)
+
     data = []
     for artist in artists['artists']:
 
+        # Extract the image if there is one
         image = None
-        try:
-            image = artist.image()
-        except:
-            pass
+        try: image = artist.image()
+        except: pass
 
-        artist_id = artist.id
-        name = artist.name
+        data.append({ 'id': artist.id, 'name': artist.name, 'image': image })
 
-        data.append({
-            'id': artist_id,
-            'name': name,
-            'image': image
-        })
     return pd.DataFrame(data)
 

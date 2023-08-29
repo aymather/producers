@@ -1,0 +1,6747 @@
+[
+    {
+        "type": "Producer",
+        "name": "Lost Kings",
+        "id": 7248569
+    },
+    {
+        "type": "Producer",
+        "name": "Emily Warren",
+        "id": 4168214
+    },
+    {
+        "type": "Composer",
+        "name": "Scott Harris",
+        "id": 4305981
+    },
+    {
+        "type": "Composer",
+        "name": "Emily Warren",
+        "id": 4168214
+    },
+    {
+        "type": "Composer",
+        "name": "Matthew Thomas Paul Holmes",
+        "id": 13509003
+    },
+    {
+        "type": "Composer",
+        "name": "Norris Shanholtz",
+        "id": 13817950
+    },
+    {
+        "type": "Composer",
+        "name": "Philip Anthony Leigh",
+        "id": 13993599
+    },
+    {
+        "type": "Composer",
+        "name": "Robert Abisi",
+        "id": 14201206
+    },
+    {
+        "type": "Lyricist",
+        "name": "Philip Anthony Leigh",
+        "id": 13993599
+    },
+    {
+        "type": "Lyricist",
+        "name": "Robert Abisi",
+        "id": 14201206
+    },
+    {
+        "type": "Lyricist",
+        "name": "Emily Warren",
+        "id": 4168214
+    },
+    {
+        "type": "Lyricist",
+        "name": "Scott Harris",
+        "id": 4305981
+    },
+    {
+        "type": "Lyricist",
+        "name": "Matthew Thomas Paul Holmes",
+        "id": 13509003
+    },
+    {
+        "type": "Lyricist",
+        "name": "Norris Shanholtz",
+        "id": 13817950
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Emily Warren",
+        "id": 4168214
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Lost Kings",
+        "id": 7248569
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Emily Warren",
+        "id": 4168214
+    },
+    {
+        "type": "Mixing Engineer",
+        "name": "Norris Shanholtz",
+        "id": 13817950
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Norris Shanholtz",
+        "id": 13817950
+    },
+    {
+        "type": "Composer",
+        "name": "Peter Thomas",
+        "id": 3557757
+    },
+    {
+        "type": "Composer",
+        "name": "Tyrone Griffin, Jr.",
+        "id": 4973645
+    },
+    {
+        "type": "Composer",
+        "name": "Jake Torrey",
+        "id": 8379590
+    },
+    {
+        "type": "Composer",
+        "name": "Michael Matosic",
+        "id": 13591021
+    },
+    {
+        "type": "Composer",
+        "name": "Larry Gashi",
+        "id": 17112855
+    },
+    {
+        "type": "Composer",
+        "name": "Nick Sarazen",
+        "id": 18135963
+    },
+    {
+        "type": "Lyricist",
+        "name": "Larry Gashi",
+        "id": 17112855
+    },
+    {
+        "type": "Lyricist",
+        "name": "Nick Sarazen",
+        "id": 18135963
+    },
+    {
+        "type": "Lyricist",
+        "name": "Peter Thomas",
+        "id": 3557757
+    },
+    {
+        "type": "Lyricist",
+        "name": "Tyrone Griffin, Jr.",
+        "id": 4973645
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jake Torrey",
+        "id": 8379590
+    },
+    {
+        "type": "Lyricist",
+        "name": "Michael Matosic",
+        "id": 13591021
+    },
+    {
+        "type": "Associated Performer",
+        "name": "GASHI",
+        "id": 9237744
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Ty Dolla $ign",
+        "id": 4973645
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Ty Dolla $ign",
+        "id": 4973645
+    },
+    {
+        "type": "Featured Artist",
+        "name": "GASHI",
+        "id": 9237744
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Tatsuya Sato",
+        "id": 14605455
+    },
+    {
+        "type": "Mixing Engineer",
+        "name": "Mitch McCarthy",
+        "id": 13646629
+    },
+    {
+        "type": "Producer",
+        "name": "Nikolai Potthoff",
+        "id": 13793563
+    },
+    {
+        "type": "Composer",
+        "name": "Norma Jean Martine",
+        "id": 5256673
+    },
+    {
+        "type": "Composer",
+        "name": "Nikolai Potthoff",
+        "id": 13793563
+    },
+    {
+        "type": "Lyricist",
+        "name": "Nikolai Potthoff",
+        "id": 13793563
+    },
+    {
+        "type": "Lyricist",
+        "name": "Norma Jean Martine",
+        "id": 5256673
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Norma Jean Martine",
+        "id": 5256673
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Norma Jean Martine",
+        "id": 5256673
+    },
+    {
+        "type": "Vocal",
+        "name": "Norma Jean Martine",
+        "id": 5256673
+    },
+    {
+        "type": "Composer",
+        "name": "Kristoffer Fogelmark",
+        "id": 6755195
+    },
+    {
+        "type": "Composer",
+        "name": "Rami Yacoub",
+        "id": 6868661
+    },
+    {
+        "type": "Composer",
+        "name": "Albin Nedler",
+        "id": 11115160
+    },
+    {
+        "type": "Composer",
+        "name": "Brittany Amaradio",
+        "id": 11532772
+    },
+    {
+        "type": "Lyricist",
+        "name": "Brittany Amaradio",
+        "id": 11532772
+    },
+    {
+        "type": "Lyricist",
+        "name": "Kristoffer Fogelmark",
+        "id": 6755195
+    },
+    {
+        "type": "Lyricist",
+        "name": "Rami Yacoub",
+        "id": 6868661
+    },
+    {
+        "type": "Lyricist",
+        "name": "Albin Nedler",
+        "id": 11115160
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Sabrina Carpenter",
+        "id": 4751756
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Sabrina Carpenter",
+        "id": 4751756
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Dave Kutch",
+        "id": 11858000
+    },
+    {
+        "type": "Producer",
+        "name": "SmarterChild",
+        "id": 14463839
+    },
+    {
+        "type": "Composer",
+        "name": "Chloe George",
+        "id": 8312550
+    },
+    {
+        "type": "Composer",
+        "name": "Micah Premnath",
+        "id": 13579590
+    },
+    {
+        "type": "Composer",
+        "name": "Rick \"SmarterChild\" Markowitz",
+        "id": 14180845
+    },
+    {
+        "type": "Lyricist",
+        "name": "Rick \"SmarterChild\" Markowitz",
+        "id": 14180845
+    },
+    {
+        "type": "Lyricist",
+        "name": "Chloe George",
+        "id": 8312550
+    },
+    {
+        "type": "Lyricist",
+        "name": "Micah Premnath",
+        "id": 13579590
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Anna Clendening",
+        "id": 5867243
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Anna Clendening",
+        "id": 5867243
+    },
+    {
+        "type": "Composer",
+        "name": "Roy English",
+        "id": 6112450
+    },
+    {
+        "type": "Composer",
+        "name": "Wesley Smith",
+        "id": 8397288
+    },
+    {
+        "type": "Composer",
+        "name": "Sean Daniel Jacobs",
+        "id": 24756603
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sean Daniel Jacobs",
+        "id": 24756603
+    },
+    {
+        "type": "Lyricist",
+        "name": "Roy English",
+        "id": 6112450
+    },
+    {
+        "type": "Lyricist",
+        "name": "Wesley Smith",
+        "id": 8397288
+    },
+    {
+        "type": "Mixing Engineer",
+        "name": "Lost Kings",
+        "id": 7248569
+    },
+    {
+        "type": "Composer",
+        "name": "Sarah Aarons",
+        "id": 14337087
+    },
+    {
+        "type": "Composer",
+        "name": "Sean Meier",
+        "id": 14369988
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sarah Aarons",
+        "id": 14337087
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sean Meier",
+        "id": 14369988
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Tinashe",
+        "id": 5222063
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Tinashe",
+        "id": 5222063
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Mike Sabri",
+        "id": 13623398
+    },
+    {
+        "type": "Producer",
+        "name": "Bing Fazio",
+        "id": 11458044
+    },
+    {
+        "type": "Composer",
+        "name": "Sabrina Louise Bernstein",
+        "id": 14300707
+    },
+    {
+        "type": "Composer",
+        "name": "Cameron Thomaz",
+        "id": 3520382
+    },
+    {
+        "type": "Composer",
+        "name": "John Ryan",
+        "id": 4156374
+    },
+    {
+        "type": "Composer",
+        "name": "Marcus Lomax",
+        "id": 6808814
+    },
+    {
+        "type": "Composer",
+        "name": "James Newman",
+        "id": 7185408
+    },
+    {
+        "type": "Composer",
+        "name": "Alexander Izquierdo",
+        "id": 11132663
+    },
+    {
+        "type": "Composer",
+        "name": "Andrew Haas",
+        "id": 11224593
+    },
+    {
+        "type": "Composer",
+        "name": "Charles Michael Anderson",
+        "id": 11654335
+    },
+    {
+        "type": "Composer",
+        "name": "Ian Franzino",
+        "id": 12644619
+    },
+    {
+        "type": "Composer",
+        "name": "Ilsey Juber",
+        "id": 12662264
+    },
+    {
+        "type": "Composer",
+        "name": "Michael David Foster",
+        "id": 13583729
+    },
+    {
+        "type": "Composer",
+        "name": "Ruth Anne Cunningham",
+        "id": 14289557
+    },
+    {
+        "type": "Lyricist",
+        "name": "Alexander Izquierdo",
+        "id": 11132663
+    },
+    {
+        "type": "Lyricist",
+        "name": "Cameron Thomaz",
+        "id": 3520382
+    },
+    {
+        "type": "Lyricist",
+        "name": "John Ryan",
+        "id": 4156374
+    },
+    {
+        "type": "Lyricist",
+        "name": "Marcus Lomax",
+        "id": 6808814
+    },
+    {
+        "type": "Lyricist",
+        "name": "James Newman",
+        "id": 7185408
+    },
+    {
+        "type": "Lyricist",
+        "name": "Andrew Haas",
+        "id": 11224593
+    },
+    {
+        "type": "Lyricist",
+        "name": "Charles Michael Anderson",
+        "id": 11654335
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ian Franzino",
+        "id": 12644619
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ilsey Juber",
+        "id": 12662264
+    },
+    {
+        "type": "Lyricist",
+        "name": "Michael David Foster",
+        "id": 13583729
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ruth Anne Cunningham",
+        "id": 14289557
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sabrina Louise Bernstein",
+        "id": 14300707
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Wiz Khalifa",
+        "id": 3520382
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Social House",
+        "id": 6678428
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Social House",
+        "id": 6678428
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Wiz Khalifa",
+        "id": 3520382
+    },
+    {
+        "type": "Vocal",
+        "name": "Social House",
+        "id": 6678428
+    },
+    {
+        "type": "Vocal",
+        "name": "Wiz Khalifa",
+        "id": 3520382
+    },
+    {
+        "type": "Composer",
+        "name": "Michael Pollack",
+        "id": 4915240
+    },
+    {
+        "type": "Composer",
+        "name": "Delacey",
+        "id": 6788016
+    },
+    {
+        "type": "Composer",
+        "name": "Will Lobban-Bean",
+        "id": 14930156
+    },
+    {
+        "type": "Lyricist",
+        "name": "Will Lobban-Bean",
+        "id": 14930156
+    },
+    {
+        "type": "Lyricist",
+        "name": "Michael Pollack",
+        "id": 4915240
+    },
+    {
+        "type": "Lyricist",
+        "name": "Delacey",
+        "id": 6788016
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Loren Gray",
+        "id": 10180359
+    },
+    {
+        "type": "Vocal",
+        "name": "Loren Gray",
+        "id": 10180359
+    },
+    {
+        "type": "Composer",
+        "name": "Lauren Aquilina",
+        "id": 4986802
+    },
+    {
+        "type": "Composer",
+        "name": "Matt Newman",
+        "id": 8639900
+    },
+    {
+        "type": "Composer",
+        "name": "Jonny Hockings",
+        "id": 12940384
+    },
+    {
+        "type": "Lyricist",
+        "name": "Lauren Aquilina",
+        "id": 4986802
+    },
+    {
+        "type": "Lyricist",
+        "name": "Matt Newman",
+        "id": 8639900
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jonny Hockings",
+        "id": 12940384
+    },
+    {
+        "type": "Vocal",
+        "name": "Lauren Aquilina",
+        "id": 4986802
+    },
+    {
+        "type": "Producer",
+        "name": "Nicki Adamsson",
+        "id": 13775258
+    },
+    {
+        "type": "Composer",
+        "name": "Mick Coogan",
+        "id": 13607347
+    },
+    {
+        "type": "Composer",
+        "name": "Caroline Pennell",
+        "id": 5533143
+    },
+    {
+        "type": "Composer",
+        "name": "Nicki Adamsson",
+        "id": 13775258
+    },
+    {
+        "type": "Lyricist",
+        "name": "Nicki Adamsson",
+        "id": 13775258
+    },
+    {
+        "type": "Lyricist",
+        "name": "Caroline Pennell",
+        "id": 5533143
+    },
+    {
+        "type": "Lyricist",
+        "name": "Mick Coogan",
+        "id": 13607347
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Tove Styrke",
+        "id": 3641492
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Tove Styrke",
+        "id": 3641492
+    },
+    {
+        "type": "Vocal",
+        "name": "Tove Styrke",
+        "id": 3641492
+    },
+    {
+        "type": "Composer",
+        "name": "Dallas Koehlke",
+        "id": 11808666
+    },
+    {
+        "type": "Composer",
+        "name": "Sir Bagpipe",
+        "id": 14449107
+    },
+    {
+        "type": "Lyricist",
+        "name": "Dallas Koehlke",
+        "id": 11808666
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sir Bagpipe",
+        "id": 14449107
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Jesper Jenset",
+        "id": 6265022
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Jesper Jenset",
+        "id": 6265022
+    },
+    {
+        "type": "Synthesizer",
+        "name": "Michael Pollack",
+        "id": 4915240
+    },
+    {
+        "type": "Vocal",
+        "name": "Jesper Jenset",
+        "id": 6265022
+    },
+    {
+        "type": "Composer",
+        "name": "Andreas Schuller",
+        "id": 4603337
+    },
+    {
+        "type": "Composer",
+        "name": "James Abrahart",
+        "id": 12731283
+    },
+    {
+        "type": "Lyricist",
+        "name": "James Abrahart",
+        "id": 12731283
+    },
+    {
+        "type": "Lyricist",
+        "name": "Andreas Schuller",
+        "id": 4603337
+    },
+    {
+        "type": "Associated Performer",
+        "name": "SAFE",
+        "id": 3913872
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Safe",
+        "id": 3913872
+    },
+    {
+        "type": "Composer",
+        "name": "Finn Keane",
+        "id": 12264062
+    },
+    {
+        "type": "Composer",
+        "name": "Paris Alexandria Jones",
+        "id": 13908950
+    },
+    {
+        "type": "Composer",
+        "name": "Turran Coleman",
+        "id": 15304387
+    },
+    {
+        "type": "Lyricist",
+        "name": "Paris Alexandria Jones",
+        "id": 13908950
+    },
+    {
+        "type": "Lyricist",
+        "name": "Turran Coleman",
+        "id": 15304387
+    },
+    {
+        "type": "Lyricist",
+        "name": "Finn Keane",
+        "id": 12264062
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Luh Kel",
+        "id": 13335136
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Sevyn Streeter",
+        "id": 4848262
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Sevyn Streeter",
+        "id": 4848262
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Luh Kel",
+        "id": 13335136
+    },
+    {
+        "type": "Composer",
+        "name": "Jesse Thomas",
+        "id": 3611014
+    },
+    {
+        "type": "Composer",
+        "name": "Darold Brown",
+        "id": 4818733
+    },
+    {
+        "type": "Composer",
+        "name": "Caroline Smith",
+        "id": 5360110
+    },
+    {
+        "type": "Composer",
+        "name": "Chris Wallace",
+        "id": 6023074
+    },
+    {
+        "type": "Composer",
+        "name": "Leroy Clampitt",
+        "id": 13249778
+    },
+    {
+        "type": "Lyricist",
+        "name": "Caroline Smith",
+        "id": 5360110
+    },
+    {
+        "type": "Lyricist",
+        "name": "Chris Wallace",
+        "id": 6023074
+    },
+    {
+        "type": "Lyricist",
+        "name": "Leroy Clampitt",
+        "id": 13249778
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jesse Thomas",
+        "id": 3611014
+    },
+    {
+        "type": "Lyricist",
+        "name": "Darold Brown",
+        "id": 4818733
+    },
+    {
+        "type": "Associated Performer",
+        "name": "A$AP Ferg",
+        "id": 4818733
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Ally Brooke",
+        "id": 8795236
+    },
+    {
+        "type": "Featured Artist",
+        "name": "A$AP Ferg",
+        "id": 4818733
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Ally Brooke",
+        "id": 8795236
+    },
+    {
+        "type": "Producer",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Composer",
+        "name": "Amanda MNDR Warner",
+        "id": 11182028
+    },
+    {
+        "type": "Composer",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Composer",
+        "name": "Julien Jabre",
+        "id": 3533972
+    },
+    {
+        "type": "Composer",
+        "name": "Peter Wade Keusch",
+        "id": 6351863
+    },
+    {
+        "type": "Composer",
+        "name": "Rune Reilly Kölsch",
+        "id": 14285206
+    },
+    {
+        "type": "Lyricist",
+        "name": "Peter Wade Keusch",
+        "id": 6351863
+    },
+    {
+        "type": "Lyricist",
+        "name": "Amanda MNDR Warner",
+        "id": 11182028
+    },
+    {
+        "type": "Lyricist",
+        "name": "Rune Reilly Kölsch",
+        "id": 14285206
+    },
+    {
+        "type": "Lyricist",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Lyricist",
+        "name": "Julien Jabre",
+        "id": 3533972
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Roy Woods",
+        "id": 7123840
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Stefan Heger",
+        "id": 14519652
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Andrew Walter",
+        "id": 3625945
+    },
+    {
+        "type": "Mixer",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Music Production",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Stefan Heger",
+        "id": 14519652
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Andrew Walter",
+        "id": 3625945
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Vocals",
+        "name": "Roy Woods",
+        "id": 7123840
+    },
+    {
+        "type": "Composer",
+        "name": "Yihan Zhu",
+        "id": 17075497
+    },
+    {
+        "type": "Lyricist",
+        "name": "Yihan Zhu",
+        "id": 17075497
+    },
+    {
+        "type": "Producer",
+        "name": "David Guetta",
+        "id": 27343
+    },
+    {
+        "type": "Composer",
+        "name": "Sasha Sloan",
+        "id": 8523185
+    },
+    {
+        "type": "Composer",
+        "name": "Martin Picandet",
+        "id": 13478178
+    },
+    {
+        "type": "Composer",
+        "name": "Sasha Sloan",
+        "id": 27268222
+    },
+    {
+        "type": "Composer",
+        "name": "David Guetta",
+        "id": 27343
+    },
+    {
+        "type": "Composer",
+        "name": "Noonie Bao",
+        "id": 4469358
+    },
+    {
+        "type": "Composer",
+        "name": "Alex Hope",
+        "id": 7380336
+    },
+    {
+        "type": "Additional Production",
+        "name": "Michael Calfan",
+        "id": 3684907
+    },
+    {
+        "type": "DJ",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Masterer",
+        "name": "Stefan Heger",
+        "id": 14519652
+    },
+    {
+        "type": "Piano",
+        "name": "Giorgio Tuinfort",
+        "id": 7247134
+    },
+    {
+        "type": "Vocal Producer",
+        "name": "Alex Hope",
+        "id": 7380336
+    },
+    {
+        "type": "With Vocals",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Writer",
+        "name": "Sasha Sloan",
+        "id": 27268222
+    },
+    {
+        "type": "Writer",
+        "name": "Martin Picandet",
+        "id": 13478178
+    },
+    {
+        "type": "Writer",
+        "name": "Sasha Sloan",
+        "id": 8523185
+    },
+    {
+        "type": "Writer",
+        "name": "Alex Hope",
+        "id": 7380336
+    },
+    {
+        "type": "Writer",
+        "name": "Noonie Bao",
+        "id": 4469358
+    },
+    {
+        "type": "Writer",
+        "name": "David Guetta",
+        "id": 27343
+    },
+    {
+        "type": "Composer",
+        "name": "Zhu Yihan",
+        "id": 15006764
+    },
+    {
+        "type": "Writer",
+        "name": "Zhu Yihan",
+        "id": 15006764
+    },
+    {
+        "type": "Producer",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Composer",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Lyricist",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Background Vocalist",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Editor",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Mix Engineer",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Vocal Arranger",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Vocal Engineer",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Vocals",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Composer",
+        "name": "Takudzwa Maidza",
+        "id": 14594369
+    },
+    {
+        "type": "Lyricist",
+        "name": "Takudzwa Maidza",
+        "id": 14594369
+    },
+    {
+        "type": "Lyricist",
+        "name": "Martin Picandet",
+        "id": 13478178
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Tkay Maidza",
+        "id": 5413095
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Tkay Maidza",
+        "id": 5413095
+    },
+    {
+        "type": "Keyboards",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Programming",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Vocals",
+        "name": "Tkay Maidza",
+        "id": 5413095
+    },
+    {
+        "type": "Producer",
+        "name": "Julio Mejia",
+        "id": 4296680
+    },
+    {
+        "type": "Producer",
+        "name": "Matthew Toth",
+        "id": 13509053
+    },
+    {
+        "type": "Composer",
+        "name": "Julio Mejia",
+        "id": 4296680
+    },
+    {
+        "type": "Composer",
+        "name": "Julio Meija",
+        "id": 13028051
+    },
+    {
+        "type": "Composer",
+        "name": "Matthew Toth",
+        "id": 13509053
+    },
+    {
+        "type": "A&R Direction",
+        "name": "Gina Tucci",
+        "id": 12429484
+    },
+    {
+        "type": "Writer",
+        "name": "Julio Mejia",
+        "id": 4296680
+    },
+    {
+        "type": "Writer",
+        "name": "Julio Meija",
+        "id": 13028051
+    },
+    {
+        "type": "Writer",
+        "name": "Matthew Toth",
+        "id": 13509053
+    },
+    {
+        "type": "Writer",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Producer",
+        "name": "Mark Ralph",
+        "id": 7005106
+    },
+    {
+        "type": "Producer",
+        "name": "Jax Jones",
+        "id": 5866482
+    },
+    {
+        "type": "Composer",
+        "name": "Camille Purcell",
+        "id": 11579798
+    },
+    {
+        "type": "Composer",
+        "name": "Mark Ralph",
+        "id": 7005106
+    },
+    {
+        "type": "Composer",
+        "name": "Janée ''Jin Jin'' Bennett",
+        "id": 18328326
+    },
+    {
+        "type": "Composer",
+        "name": "Timucin Lam",
+        "id": 14685508
+    },
+    {
+        "type": "Composer",
+        "name": "Hailee Steinfeld",
+        "id": 6174415
+    },
+    {
+        "type": "Composer",
+        "name": "Rebecca Hill",
+        "id": 6416280
+    },
+    {
+        "type": "Lyricist",
+        "name": "Mark Ralph",
+        "id": 7005106
+    },
+    {
+        "type": "Lyricist",
+        "name": "Camille Purcell",
+        "id": 11579798
+    },
+    {
+        "type": "Lyricist",
+        "name": "Timucin Lam",
+        "id": 14685508
+    },
+    {
+        "type": "Lyricist",
+        "name": "Janée ''Jin Jin'' Bennett",
+        "id": 18328326
+    },
+    {
+        "type": "Lyricist",
+        "name": "Hailee Steinfeld",
+        "id": 6174415
+    },
+    {
+        "type": "Lyricist",
+        "name": "Rebecca Hill",
+        "id": 6416280
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Mark Ralph",
+        "id": 7005106
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Europa",
+        "id": 3615638
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Madison Beer",
+        "id": 5077794
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Jax Jones",
+        "id": 5866482
+    },
+    {
+        "type": "Co-Producer",
+        "name": "Mark Ralph",
+        "id": 7005106
+    },
+    {
+        "type": "Engineer",
+        "name": "Ross Fortune",
+        "id": 14261104
+    },
+    {
+        "type": "Engineer",
+        "name": "Tom AD Fuller",
+        "id": 14702464
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Stephan Heger",
+        "id": 15338096
+    },
+    {
+        "type": "Mixer",
+        "name": "Mark Ralph",
+        "id": 7005106
+    },
+    {
+        "type": "Music Production",
+        "name": "Mark Ralph",
+        "id": 7005106
+    },
+    {
+        "type": "Music Production",
+        "name": "Europa",
+        "id": 3615638
+    },
+    {
+        "type": "Music Production",
+        "name": "Jax Jones",
+        "id": 5866482
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Mark Ralph",
+        "id": 7005106
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Tom AD Fuller",
+        "id": 14702464
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Stephan Heger",
+        "id": 15338096
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Ross Fortune",
+        "id": 14261104
+    },
+    {
+        "type": "Vocals",
+        "name": "Madison Beer",
+        "id": 5077794
+    },
+    {
+        "type": "Producer",
+        "name": "Yassine Rehaiem",
+        "id": 14968061
+    },
+    {
+        "type": "Composer",
+        "name": "Peter Wade",
+        "id": 4631271
+    },
+    {
+        "type": "Composer",
+        "name": "Amanda Warner",
+        "id": 11182239
+    },
+    {
+        "type": "Lyricist",
+        "name": "Peter Wade",
+        "id": 4631271
+    },
+    {
+        "type": "Lyricist",
+        "name": "Amanda Warner",
+        "id": 11182239
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Yassine Rehaiem",
+        "id": 14968061
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Alma",
+        "id": 4248698
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Alma",
+        "id": 4248698
+    },
+    {
+        "type": "Vocals",
+        "name": "Alma",
+        "id": 4248698
+    },
+    {
+        "type": "Producer",
+        "name": "Neave Applebaum",
+        "id": 13751746
+    },
+    {
+        "type": "Producer",
+        "name": "easyFun",
+        "id": 6787199
+    },
+    {
+        "type": "Producer",
+        "name": "Goodboys",
+        "id": 7544771
+    },
+    {
+        "type": "Composer",
+        "name": "Ethan Shore",
+        "id": 20860875
+    },
+    {
+        "type": "Composer",
+        "name": "Joshua Grimmett",
+        "id": 12982707
+    },
+    {
+        "type": "Composer",
+        "name": "Grace Barker",
+        "id": 12470067
+    },
+    {
+        "type": "Lyricist",
+        "name": "Grace Barker",
+        "id": 12470067
+    },
+    {
+        "type": "Lyricist",
+        "name": "Joshua Grimmett",
+        "id": 12982707
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ethan Shore",
+        "id": 20860875
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Mark Ralph",
+        "id": 7005106
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Neave Applebaum",
+        "id": 13751746
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Goodboys",
+        "id": 7544771
+    },
+    {
+        "type": "Additional Producer",
+        "name": "easyFun",
+        "id": 6787199
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Gracey",
+        "id": 4644877
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Goodboys",
+        "id": 7544771
+    },
+    {
+        "type": "Engineer",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Kevin Grainger",
+        "id": 13106961
+    },
+    {
+        "type": "Mixer",
+        "name": "Kevin Grainger",
+        "id": 13106961
+    },
+    {
+        "type": "Programmer",
+        "name": "Mark Ralph",
+        "id": 7005106
+    },
+    {
+        "type": "Programming",
+        "name": "Jax Jones",
+        "id": 5866482
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Kevin Grainger",
+        "id": 13106961
+    },
+    {
+        "type": "Vocals",
+        "name": "Gracey",
+        "id": 4644877
+    },
+    {
+        "type": "Vocals",
+        "name": "Goodboys",
+        "id": 7544771
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Yade Lauren",
+        "id": 7972972
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Dragonette",
+        "id": 67663
+    },
+    {
+        "type": "Lead Vocals",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Composer",
+        "name": "Martin Solveig, Martina Sorbara - Temps d'Avance, Dragonette Inc.",
+        "id": 13479482
+    },
+    {
+        "type": "Composer",
+        "name": "Martin Solveig,Martina Sorbara",
+        "id": 13479477
+    },
+    {
+        "type": "Composer",
+        "name": "Martin Solveig, Martina Sorbara, Dragonette",
+        "id": 13479480
+    },
+    {
+        "type": "Composer",
+        "name": "Martin Solveig & Martina Sorbara",
+        "id": 13479475
+    },
+    {
+        "type": "Composer",
+        "name": "Martin Solveig, Martina Sorbara",
+        "id": 13479476
+    },
+    {
+        "type": "Vocals",
+        "name": "Dragonette",
+        "id": 67663
+    },
+    {
+        "type": "Vocals",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Writer",
+        "name": "Martin Solveig, Martina Sorbara, Dragonette",
+        "id": 13479480
+    },
+    {
+        "type": "Writer",
+        "name": "Martin Solveig, Martina Sorbara - Temps d'Avance, Dragonette Inc.",
+        "id": 13479482
+    },
+    {
+        "type": "Writer",
+        "name": "Martin Solveig, Martina Sorbara",
+        "id": 13479476
+    },
+    {
+        "type": "Writer",
+        "name": "Martin Solveig & Martina Sorbara",
+        "id": 13479475
+    },
+    {
+        "type": "Writer",
+        "name": "Martin Solveig,Martina Sorbara",
+        "id": 13479477
+    },
+    {
+        "type": "Remixer",
+        "name": "Sidney Samson",
+        "id": 3639082
+    },
+    {
+        "type": "Remixer",
+        "name": "Marlon Flohr",
+        "id": 13464622
+    },
+    {
+        "type": "Remixer",
+        "name": "Ralph van Hilst",
+        "id": 14094282
+    },
+    {
+        "type": "Remixer",
+        "name": "Michael Woods",
+        "id": 3638035
+    },
+    {
+        "type": "Remixer",
+        "name": "Dada Life",
+        "id": 64080
+    },
+    {
+        "type": "Producer",
+        "name": "Alex Tepper",
+        "id": 3580859
+    },
+    {
+        "type": "Composer",
+        "name": "Rachel Keen",
+        "id": 14075743
+    },
+    {
+        "type": "Composer",
+        "name": "Jamie Spinks",
+        "id": 12744589
+    },
+    {
+        "type": "Composer",
+        "name": "Uzoechi Emenike",
+        "id": 4446878
+    },
+    {
+        "type": "Lyricist",
+        "name": "Uzoechi Emenike",
+        "id": 4446878
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jamie Spinks",
+        "id": 12744589
+    },
+    {
+        "type": "Lyricist",
+        "name": "Rachel Keen",
+        "id": 14075743
+    },
+    {
+        "type": "Additional Mixer",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Martin Solveig",
+        "id": 12272
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Alex Tepper",
+        "id": 3580859
+    },
+    {
+        "type": "Additional Vocals",
+        "name": "Ed Travers",
+        "id": 12083802
+    },
+    {
+        "type": "Additional Vocals",
+        "name": "MNEK",
+        "id": 4446878
+    },
+    {
+        "type": "Additional Vocals",
+        "name": "Jin Jin",
+        "id": 6607236
+    },
+    {
+        "type": "Additional Vocals",
+        "name": "Amy Young",
+        "id": 6791945
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Raye",
+        "id": 4721588
+    },
+    {
+        "type": "Associated Performer",
+        "name": "MNEK",
+        "id": 4446878
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Alex Tepper",
+        "id": 3580859
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Ed Travers",
+        "id": 12083802
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Richard Adlam",
+        "id": 6022930
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Jin Jin",
+        "id": 6607236
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Amy Young",
+        "id": 6791945
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Hal Ritson",
+        "id": 6021769
+    },
+    {
+        "type": "Asst. Recording Engineer",
+        "name": "Ross Fortune",
+        "id": 14261104
+    },
+    {
+        "type": "Asst. Recording Engineer",
+        "name": "Tom AD Fuller",
+        "id": 14702464
+    },
+    {
+        "type": "Engineer",
+        "name": "Hal Ritson",
+        "id": 6021769
+    },
+    {
+        "type": "Engineer",
+        "name": "Richard Adlam",
+        "id": 6022930
+    },
+    {
+        "type": "Guitar",
+        "name": "Hal Ritson",
+        "id": 6021769
+    },
+    {
+        "type": "Music Production",
+        "name": "Alex Tepper",
+        "id": 3580859
+    },
+    {
+        "type": "Programmer",
+        "name": "Tom AD Fuller",
+        "id": 14702464
+    },
+    {
+        "type": "Programmer",
+        "name": "Ross Fortune",
+        "id": 14261104
+    },
+    {
+        "type": "Programming",
+        "name": "Richard Adlam",
+        "id": 6022930
+    },
+    {
+        "type": "Programming",
+        "name": "Hal Ritson",
+        "id": 6021769
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Richard Adlam",
+        "id": 6022930
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Hal Ritson",
+        "id": 6021769
+    },
+    {
+        "type": "Vocals",
+        "name": "Raye",
+        "id": 4721588
+    },
+    {
+        "type": "Composer",
+        "name": "Ina Wroldsen",
+        "id": 4830814
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ina Wroldsen",
+        "id": 4830814
+    },
+    {
+        "type": "Arranger",
+        "name": "Michael Calfan",
+        "id": 3684907
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Ina Wroldsen",
+        "id": 4830814
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Ina Wroldsen",
+        "id": 4830814
+    },
+    {
+        "type": "Vocals",
+        "name": "Ina Wroldsen",
+        "id": 4830814
+    },
+    {
+        "type": "Work Arranger",
+        "name": "Michael Calfan",
+        "id": 3684907
+    },
+    {
+        "type": "Producer",
+        "name": "Hugo (CN)",
+        "id": 16856706
+    },
+    {
+        "type": "Composer",
+        "name": "Hugo (CN)",
+        "id": 16856706
+    },
+    {
+        "type": "Arranger",
+        "name": "Hugo (CN)",
+        "id": 16856706
+    },
+    {
+        "type": "Arranger",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Engineer",
+        "name": "Hugo (CN)",
+        "id": 16856706
+    },
+    {
+        "type": "Engineer",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Producer",
+        "name": "HUGO",
+        "id": 3583547
+    },
+    {
+        "type": "Composer",
+        "name": "HUGO",
+        "id": 3583547
+    },
+    {
+        "type": "Arranger",
+        "name": "HUGO",
+        "id": 3583547
+    },
+    {
+        "type": "Engineer",
+        "name": "HUGO",
+        "id": 3583547
+    },
+    {
+        "type": "Mixer",
+        "name": "HUGO",
+        "id": 3583547
+    },
+    {
+        "type": "Mixer",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Writer",
+        "name": "HUGO",
+        "id": 3583547
+    },
+    {
+        "type": "Writer",
+        "name": "Chace",
+        "id": 30881295
+    },
+    {
+        "type": "Producer",
+        "name": "Louis Bell",
+        "id": 5991709
+    },
+    {
+        "type": "Producer",
+        "name": "The Monsters & Strangerz",
+        "id": 14643722
+    },
+    {
+        "type": "Producer",
+        "name": "Ojivolta",
+        "id": 7796714
+    },
+    {
+        "type": "Producer",
+        "name": "Jon Bellion",
+        "id": 5241066
+    },
+    {
+        "type": "Composer",
+        "name": "Ashley Frangipane",
+        "id": 5386709
+    },
+    {
+        "type": "Composer",
+        "name": "Mark \"Oji\" Williams",
+        "id": 16759287
+    },
+    {
+        "type": "Composer",
+        "name": "Jordan K. Johnson",
+        "id": 12944490
+    },
+    {
+        "type": "Composer",
+        "name": "Jonathan Bellion",
+        "id": 12930904
+    },
+    {
+        "type": "Composer",
+        "name": "Stefan Johnson",
+        "id": 6808813
+    },
+    {
+        "type": "Composer",
+        "name": "Louis Bell",
+        "id": 5991709
+    },
+    {
+        "type": "Composer",
+        "name": "Amy Allen",
+        "id": 5196336
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jordan K. Johnson",
+        "id": 12944490
+    },
+    {
+        "type": "Lyricist",
+        "name": "Mark \"Oji\" Williams",
+        "id": 16759287
+    },
+    {
+        "type": "Lyricist",
+        "name": "Amy Allen",
+        "id": 5196336
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ashley Frangipane",
+        "id": 5386709
+    },
+    {
+        "type": "Lyricist",
+        "name": "Louis Bell",
+        "id": 5991709
+    },
+    {
+        "type": "Lyricist",
+        "name": "Stefan Johnson",
+        "id": 6808813
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jonathan Bellion",
+        "id": 12930904
+    },
+    {
+        "type": "Remixer",
+        "name": "Axwell",
+        "id": 15563
+    },
+    {
+        "type": "A&R",
+        "name": "Jeremy Vuernick",
+        "id": 12822052
+    },
+    {
+        "type": "A&R Admin",
+        "name": "Ryan Del Vecchio",
+        "id": 14293803
+    },
+    {
+        "type": "Associated Performer",
+        "name": "The Monsters & Strangerz",
+        "id": 14643722
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Axwell",
+        "id": 15563
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Mark Williams",
+        "id": 3918047
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Amy Allen",
+        "id": 5196336
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Jon Bellion",
+        "id": 5241066
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Halsey",
+        "id": 5386709
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Louis Bell",
+        "id": 5991709
+    },
+    {
+        "type": "Background Vocalist",
+        "name": "Amy Allen",
+        "id": 5196336
+    },
+    {
+        "type": "Guitar",
+        "name": "Mark Williams",
+        "id": 3918047
+    },
+    {
+        "type": "Guitar",
+        "name": "Amy Allen",
+        "id": 5196336
+    },
+    {
+        "type": "Keyboards",
+        "name": "Louis Bell",
+        "id": 5991709
+    },
+    {
+        "type": "Keyboards",
+        "name": "Jon Bellion",
+        "id": 5241066
+    },
+    {
+        "type": "Keyboards",
+        "name": "Mark Williams",
+        "id": 3918047
+    },
+    {
+        "type": "Keyboards",
+        "name": "The Monsters & Strangerz",
+        "id": 14643722
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Axel Hedfors",
+        "id": 15563
+    },
+    {
+        "type": "Mix Engineer",
+        "name": "John Hanes",
+        "id": 6116431
+    },
+    {
+        "type": "Mixer",
+        "name": "Serban Ghenea",
+        "id": 10470066
+    },
+    {
+        "type": "Programming",
+        "name": "Jon Bellion",
+        "id": 5241066
+    },
+    {
+        "type": "Programming",
+        "name": "Louis Bell",
+        "id": 5991709
+    },
+    {
+        "type": "Programming",
+        "name": "The Monsters & Strangerz",
+        "id": 14643722
+    },
+    {
+        "type": "Programming",
+        "name": "Mark Williams",
+        "id": 3918047
+    },
+    {
+        "type": "Programming",
+        "name": "Axwell",
+        "id": 15563
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Axwell",
+        "id": 15563
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "John Hanes",
+        "id": 6116431
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Serban Ghenea",
+        "id": 10470066
+    },
+    {
+        "type": "Vocals",
+        "name": "Halsey",
+        "id": 5386709
+    },
+    {
+        "type": "Producer",
+        "name": "Axel Hedfors",
+        "id": 15563
+    },
+    {
+        "type": "Producer",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Composer",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Composer",
+        "name": "Salem Al Fakir",
+        "id": 10423
+    },
+    {
+        "type": "Composer",
+        "name": "Axel Hedfors",
+        "id": 15563
+    },
+    {
+        "type": "Composer",
+        "name": "Vincent Pontare",
+        "id": 6369011
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Lyricist",
+        "name": "Vincent Pontare",
+        "id": 6369011
+    },
+    {
+        "type": "Lyricist",
+        "name": "Salem Al Fakir",
+        "id": 10423
+    },
+    {
+        "type": "Lyricist",
+        "name": "Axel Hedfors",
+        "id": 15563
+    },
+    {
+        "type": "Remixer",
+        "name": "Robin Schulz",
+        "id": 4877561
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Percussion",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Percussion",
+        "name": "Axel Hedfors",
+        "id": 15563
+    },
+    {
+        "type": "Recording Arranger",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Recording Arranger",
+        "name": "Axel Hedfors",
+        "id": 15563
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Robin Schulz",
+        "id": 4877561
+    },
+    {
+        "type": "Producer",
+        "name": "Alessandro Lindblad",
+        "id": 7583503
+    },
+    {
+        "type": "Producer",
+        "name": "Dirty South",
+        "id": 3518839
+    },
+    {
+        "type": "Composer",
+        "name": "Sandapa",
+        "id": 14326694
+    },
+    {
+        "type": "Composer",
+        "name": "Roganovic",
+        "id": 14233366
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sandapa",
+        "id": 14326694
+    },
+    {
+        "type": "Lyricist",
+        "name": "Roganovic",
+        "id": 14233366
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Rudy Sandapa",
+        "id": 5946935
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Ruben Haze",
+        "id": 5462643
+    },
+    {
+        "type": "Vocals",
+        "name": "Rudy Sandapa",
+        "id": 5946935
+    },
+    {
+        "type": "Producer",
+        "name": "Richard Zastenker",
+        "id": 14176659
+    },
+    {
+        "type": "Producer",
+        "name": "Emir Kobilic",
+        "id": 12144027
+    },
+    {
+        "type": "Composer",
+        "name": "Richard Zastenker",
+        "id": 14176659
+    },
+    {
+        "type": "Lyricist",
+        "name": "Richard Zastenker",
+        "id": 14176659
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Richard Zastenker",
+        "id": 14176659
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Emir Kobilic",
+        "id": 12144027
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Jens Siverstedt",
+        "id": 12817272
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Kristoffer Fogelmark",
+        "id": 6755195
+    },
+    {
+        "type": "Guitar",
+        "name": "Jens Siverstedt",
+        "id": 12817272
+    },
+    {
+        "type": "Keyboards",
+        "name": "Axel Hedfors",
+        "id": 15563
+    },
+    {
+        "type": "Keyboards",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Alex Gordon",
+        "id": 4278520
+    },
+    {
+        "type": "Mixer",
+        "name": "Axel Hedfors",
+        "id": 15563
+    },
+    {
+        "type": "Mixer",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Programming",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Axel Hedfors",
+        "id": 15563
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Alex Gordon",
+        "id": 4278520
+    },
+    {
+        "type": "Vocals",
+        "name": "Kristoffer Fogelmark",
+        "id": 6755195
+    },
+    {
+        "type": "Composer",
+        "name": "Isaac Hayes",
+        "id": 15722
+    },
+    {
+        "type": "Composer",
+        "name": "Sanjin Kljucanin",
+        "id": 14332096
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sanjin Kljucanin",
+        "id": 14332096
+    },
+    {
+        "type": "Lyricist",
+        "name": "Isaac Hayes",
+        "id": 15722
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Sanjin Kljucanin",
+        "id": 14332096
+    },
+    {
+        "type": "Vocals",
+        "name": "Sanjin Kljucanin",
+        "id": 14332096
+    },
+    {
+        "type": "Composer",
+        "name": "Terrence Thornton",
+        "id": 3972883
+    },
+    {
+        "type": "Lyricist",
+        "name": "Terrence Thornton",
+        "id": 3972883
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Vincent Pontare",
+        "id": 6369011
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Pusha T",
+        "id": 3972883
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Salem Al Fakir",
+        "id": 10423
+    },
+    {
+        "type": "Vocals",
+        "name": "Salem Al Fakir",
+        "id": 10423
+    },
+    {
+        "type": "Vocals",
+        "name": "Pusha T",
+        "id": 3972883
+    },
+    {
+        "type": "Vocals",
+        "name": "Vincent Pontare",
+        "id": 6369011
+    },
+    {
+        "type": "Composer",
+        "name": "Erich Lennig",
+        "id": 12167157
+    },
+    {
+        "type": "Composer",
+        "name": "Magnus Lidehäll",
+        "id": 13373596
+    },
+    {
+        "type": "Lyricist",
+        "name": "Magnus Lidehäll",
+        "id": 13373596
+    },
+    {
+        "type": "Lyricist",
+        "name": "Erich Lennig",
+        "id": 12167157
+    },
+    {
+        "type": "Composer",
+        "name": "Pharrell Williams",
+        "id": 4900204
+    },
+    {
+        "type": "Lyricist",
+        "name": "Pharrell Williams",
+        "id": 4900204
+    },
+    {
+        "type": "Associated Performer",
+        "name": "James Anderson",
+        "id": 4249073
+    },
+    {
+        "type": "Background Vocalist",
+        "name": "Hal Ritson",
+        "id": 6021769
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Hal Ritson",
+        "id": 6021769
+    },
+    {
+        "type": "Vocals",
+        "name": "James Anderson",
+        "id": 4249073
+    },
+    {
+        "type": "Guitar",
+        "name": "Salem Al Fakir",
+        "id": 10423
+    },
+    {
+        "type": "Piano",
+        "name": "Salem Al Fakir",
+        "id": 10423
+    },
+    {
+        "type": "Composer",
+        "name": "Gerard Folkestad Taylor",
+        "id": 12401401
+    },
+    {
+        "type": "Composer",
+        "name": "Brian Todd Collins",
+        "id": 4927367
+    },
+    {
+        "type": "Composer",
+        "name": "Madison Love",
+        "id": 4583751
+    },
+    {
+        "type": "Composer",
+        "name": "Johnathan Carter Cunningham",
+        "id": 12903492
+    },
+    {
+        "type": "Lyricist",
+        "name": "Madison Love",
+        "id": 4583751
+    },
+    {
+        "type": "Lyricist",
+        "name": "Johnathan Carter Cunningham",
+        "id": 12903492
+    },
+    {
+        "type": "Lyricist",
+        "name": "Gerard Folkestad Taylor",
+        "id": 12401401
+    },
+    {
+        "type": "Lyricist",
+        "name": "Brian Todd Collins",
+        "id": 4927367
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Yuki Tashiro",
+        "id": 14985059
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Mattias Johansson",
+        "id": 4425488
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Madison Love",
+        "id": 4583751
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Kid Ink",
+        "id": 4927367
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Mattias Bylund",
+        "id": 7360187
+    },
+    {
+        "type": "Associated Performer",
+        "name": "David Bukovinszky",
+        "id": 11863467
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Jungen B Linderholm",
+        "id": 13030648
+    },
+    {
+        "type": "Cello",
+        "name": "Jungen B Linderholm",
+        "id": 13030648
+    },
+    {
+        "type": "Cello",
+        "name": "David Bukovinszky",
+        "id": 11863467
+    },
+    {
+        "type": "Editor",
+        "name": "Mattias Johansson",
+        "id": 4425488
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Kid Ink",
+        "id": 4927367
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Mattias Johansson",
+        "id": 4425488
+    },
+    {
+        "type": "String Arranger",
+        "name": "Mattias Bylund",
+        "id": 7360187
+    },
+    {
+        "type": "Strings",
+        "name": "Mattias Bylund",
+        "id": 7360187
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Mattias Johansson",
+        "id": 4425488
+    },
+    {
+        "type": "Violin",
+        "name": "Yuki Tashiro",
+        "id": 14985059
+    },
+    {
+        "type": "Violin",
+        "name": "Mattias Johansson",
+        "id": 4425488
+    },
+    {
+        "type": "Vocals",
+        "name": "Kid Ink",
+        "id": 4927367
+    },
+    {
+        "type": "Vocals",
+        "name": "Madison Love",
+        "id": 4583751
+    },
+    {
+        "type": "Composer",
+        "name": "Richard Archer",
+        "id": 7154552
+    },
+    {
+        "type": "Composer",
+        "name": "Jacob Tillberg",
+        "id": 4830861
+    },
+    {
+        "type": "Composer",
+        "name": "Sebastian Furrer",
+        "id": 14372915
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jacob Tillberg",
+        "id": 4830861
+    },
+    {
+        "type": "Lyricist",
+        "name": "Richard Archer",
+        "id": 7154552
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sebastian Furrer",
+        "id": 14372915
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Chloe Leone",
+        "id": 7757725
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Richard Archer",
+        "id": 7154552
+    },
+    {
+        "type": "Background Vocalist",
+        "name": "Chloe Leone",
+        "id": 7757725
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Dick Beetham",
+        "id": 11941518
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Dick Beetham",
+        "id": 11941518
+    },
+    {
+        "type": "Vocals",
+        "name": "Richard Archer",
+        "id": 7154552
+    },
+    {
+        "type": "Composer",
+        "name": "Klas Åhlund",
+        "id": 13135354
+    },
+    {
+        "type": "Lyricist",
+        "name": "Klas Åhlund",
+        "id": 13135354
+    },
+    {
+        "type": "Composer",
+        "name": "Elof Loelv",
+        "id": 12125116
+    },
+    {
+        "type": "Lyricist",
+        "name": "Elof Loelv",
+        "id": 12125116
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Trevor Guthrie",
+        "id": 5916587
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Tom Hall",
+        "id": 4425790
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Tom Hall",
+        "id": 4425790
+    },
+    {
+        "type": "Vocals",
+        "name": "Trevor Guthrie",
+        "id": 5916587
+    },
+    {
+        "type": "Composer",
+        "name": "Amanda Fondell",
+        "id": 4263074
+    },
+    {
+        "type": "Composer",
+        "name": "Linnea Södahl",
+        "id": 4670652
+    },
+    {
+        "type": "Composer",
+        "name": "Ash Pournouri",
+        "id": 7867976
+    },
+    {
+        "type": "Composer",
+        "name": "Julimar Santos",
+        "id": 8483260
+    },
+    {
+        "type": "Lyricist",
+        "name": "Julimar Santos",
+        "id": 8483260
+    },
+    {
+        "type": "Lyricist",
+        "name": "Amanda Fondell",
+        "id": 4263074
+    },
+    {
+        "type": "Lyricist",
+        "name": "Linnea Södahl",
+        "id": 4670652
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ash Pournouri",
+        "id": 7867976
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Amanda Fondell",
+        "id": 4263074
+    },
+    {
+        "type": "Vocals",
+        "name": "Amanda Fondell",
+        "id": 4263074
+    },
+    {
+        "type": "Producer",
+        "name": "Erich Lennig",
+        "id": 12167157
+    },
+    {
+        "type": "Producer",
+        "name": "Magnus Lidehäll",
+        "id": 13373596
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Erich Lennig",
+        "id": 12167157
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Magnus Lidehäll",
+        "id": 13373596
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Erich Lennig",
+        "id": 12167157
+    },
+    {
+        "type": "Guitar",
+        "name": "Erich Lennig",
+        "id": 12167157
+    },
+    {
+        "type": "Mix Engineer",
+        "name": "Axel Hedfors",
+        "id": 15563
+    },
+    {
+        "type": "Mix Engineer",
+        "name": "Sebastian Ingrosso",
+        "id": 3639052
+    },
+    {
+        "type": "Vocals",
+        "name": "Erich Lennig",
+        "id": 12167157
+    },
+    {
+        "type": "Remixer",
+        "name": "Years",
+        "id": 3613822
+    },
+    {
+        "type": "Remixer",
+        "name": "Marcus Schössow",
+        "id": 3532691
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Years",
+        "id": 3613822
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Marcus Schössow",
+        "id": 3532691
+    },
+    {
+        "type": "Remixer",
+        "name": "R3hab",
+        "id": 3637952
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "R3hab",
+        "id": 3637952
+    },
+    {
+        "type": "Remixer",
+        "name": "M-22",
+        "id": 6759527
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "M-22",
+        "id": 6759527
+    },
+    {
+        "type": "Remixer",
+        "name": "W&W",
+        "id": 3569382
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "W&W",
+        "id": 3569382
+    },
+    {
+        "type": "Composer",
+        "name": "Randy Newman",
+        "id": 9532
+    },
+    {
+        "type": "Lyricist",
+        "name": "Randy Newman",
+        "id": 9532
+    },
+    {
+        "type": "Composer",
+        "name": "Dragan Roganovic",
+        "id": 12017805
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Marion Amira",
+        "id": 8874227
+    },
+    {
+        "type": "Writer",
+        "name": "Dragan Roganovic",
+        "id": 12017805
+    },
+    {
+        "type": "Featuring",
+        "name": "Anima!",
+        "id": 6354517
+    },
+    {
+        "type": "Featuring",
+        "name": "Rudy",
+        "id": 3520863
+    },
+    {
+        "type": "Composer",
+        "name": "Rudy Sandapa",
+        "id": 5946935
+    },
+    {
+        "type": "Composer",
+        "name": "Eden Anderson",
+        "id": 12062783
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Anima!",
+        "id": 6354517
+    },
+    {
+        "type": "Remixer",
+        "name": "Spencer Brown",
+        "id": 5487795
+    },
+    {
+        "type": "Remixer",
+        "name": "Above & Beyond",
+        "id": 3581002
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Sub Teal",
+        "id": 9147539
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Koven",
+        "id": 4530746
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Zoë Johnson",
+        "id": 9289536
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Paul Meany",
+        "id": 7369652
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Tommy Murphy",
+        "id": 9144198
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Alison May",
+        "id": 5594826
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Alissa Feudo",
+        "id": 6751647
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Justine Suissa",
+        "id": 3569302
+    },
+    {
+        "type": "Producer",
+        "name": "A-Trak",
+        "id": 3525549
+    },
+    {
+        "type": "Producer",
+        "name": "Thelonius Martin",
+        "id": 14642512
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Joe La Porta",
+        "id": 12886931
+    },
+    {
+        "type": "Mixing Engineer",
+        "name": "Eddie Sancho",
+        "id": 12059935
+    },
+    {
+        "type": "Producer",
+        "name": "G Koop",
+        "id": 6509122
+    },
+    {
+        "type": "Producer",
+        "name": "Beautiful Lou",
+        "id": 6558057
+    },
+    {
+        "type": "Producer",
+        "name": "DJ Khalil",
+        "id": 3643924
+    },
+    {
+        "type": "Producer",
+        "name": "Lakim",
+        "id": 8508576
+    },
+    {
+        "type": "Producer",
+        "name": "Simahlak",
+        "id": 26454425
+    },
+    {
+        "type": "Producer",
+        "name": "DJ Thoro",
+        "id": 7537514
+    },
+    {
+        "type": "Producer",
+        "name": "!llmind",
+        "id": 5241045
+    },
+    {
+        "type": "Producer",
+        "name": "Just Blaze",
+        "id": 4893406
+    },
+    {
+        "type": "Producer",
+        "name": "Oligee",
+        "id": 13846856
+    },
+    {
+        "type": "Producer",
+        "name": "Steven Zhu",
+        "id": 4364649
+    },
+    {
+        "type": "Producer",
+        "name": "George Reid",
+        "id": 12393623
+    },
+    {
+        "type": "Composer",
+        "name": "George Reid",
+        "id": 12393623
+    },
+    {
+        "type": "Composer",
+        "name": "Sam Sparro",
+        "id": 3529503
+    },
+    {
+        "type": "Composer",
+        "name": "Steven Zhu",
+        "id": 4364649
+    },
+    {
+        "type": "Composer",
+        "name": "Aluna Francis",
+        "id": 11176247
+    },
+    {
+        "type": "Lyricist",
+        "name": "Aluna Francis",
+        "id": 11176247
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sam Sparro",
+        "id": 3529503
+    },
+    {
+        "type": "Lyricist",
+        "name": "Steven Zhu",
+        "id": 4364649
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Zhu",
+        "id": 4511635
+    },
+    {
+        "type": "Associated Performer",
+        "name": "AlunaGeorge",
+        "id": 3933761
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Miles Showell",
+        "id": 13630416
+    },
+    {
+        "type": "Mixing Engineer",
+        "name": "Steven Zhu",
+        "id": 4364649
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Steven Zhu",
+        "id": 4364649
+    },
+    {
+        "type": "Composer",
+        "name": "Kesnamdi McDonald",
+        "id": 13104137
+    },
+    {
+        "type": "Lyricist",
+        "name": "Kesnamdi McDonald",
+        "id": 13104137
+    },
+    {
+        "type": "Associated Performer",
+        "name": "A-Trak",
+        "id": 3525549
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Keznamdi",
+        "id": 4910152
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Steven Zhu",
+        "id": 4364649
+    },
+    {
+        "type": "Composer",
+        "name": "Chris Gallant",
+        "id": 11681752
+    },
+    {
+        "type": "Lyricist",
+        "name": "Chris Gallant",
+        "id": 11681752
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Gallant",
+        "id": 4929618
+    },
+    {
+        "type": "Guitar",
+        "name": "Mitch Bell",
+        "id": 13645312
+    },
+    {
+        "type": "Composer",
+        "name": "Anthony Henderson",
+        "id": 9261134
+    },
+    {
+        "type": "Composer",
+        "name": "Troy Andrews",
+        "id": 5101582
+    },
+    {
+        "type": "Composer",
+        "name": "Bryon Anthony McCane",
+        "id": 11548094
+    },
+    {
+        "type": "Composer",
+        "name": "Charles Scruggs",
+        "id": 11655422
+    },
+    {
+        "type": "Composer",
+        "name": "Dante Jones",
+        "id": 11842510
+    },
+    {
+        "type": "Composer",
+        "name": "Stanley Howse",
+        "id": 14513674
+    },
+    {
+        "type": "Composer",
+        "name": "Steven Howse",
+        "id": 14543130
+    },
+    {
+        "type": "Lyricist",
+        "name": "Dante Jones",
+        "id": 11842510
+    },
+    {
+        "type": "Lyricist",
+        "name": "Stanley Howse",
+        "id": 14513674
+    },
+    {
+        "type": "Lyricist",
+        "name": "Steven Howse",
+        "id": 14543130
+    },
+    {
+        "type": "Lyricist",
+        "name": "Troy Andrews",
+        "id": 5101582
+    },
+    {
+        "type": "Lyricist",
+        "name": "Anthony Henderson",
+        "id": 9261134
+    },
+    {
+        "type": "Lyricist",
+        "name": "Bryon Anthony McCane",
+        "id": 11548094
+    },
+    {
+        "type": "Lyricist",
+        "name": "Charles Scruggs",
+        "id": 11655422
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Trombone Shorty",
+        "id": 3703210
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Bone Thugs-N-Harmony",
+        "id": 16991
+    },
+    {
+        "type": "Composer",
+        "name": "Vancouver Sleep Clinic",
+        "id": 5044415
+    },
+    {
+        "type": "Composer",
+        "name": "Daniel Johns",
+        "id": 3812340
+    },
+    {
+        "type": "Lyricist",
+        "name": "Daniel Johns",
+        "id": 3812340
+    },
+    {
+        "type": "Lyricist",
+        "name": "Vancouver Sleep Clinic",
+        "id": 5044415
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Vancouver Sleep Clinic",
+        "id": 5044415
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Daniel Johns",
+        "id": 3812340
+    },
+    {
+        "type": "Guitar",
+        "name": "Vancouver Sleep Clinic",
+        "id": 5044415
+    },
+    {
+        "type": "Composer",
+        "name": "Sonny Moore",
+        "id": 4543859
+    },
+    {
+        "type": "Composer",
+        "name": "Drew Love",
+        "id": 4648648
+    },
+    {
+        "type": "Lyricist",
+        "name": "Drew Love",
+        "id": 4648648
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sonny Moore",
+        "id": 4543859
+    },
+    {
+        "type": "All Instruments",
+        "name": "Skrillex",
+        "id": 3853703
+    },
+    {
+        "type": "All Instruments",
+        "name": "Steven Zhu",
+        "id": 4364649
+    },
+    {
+        "type": "All Instruments",
+        "name": "THEY.",
+        "id": 7296090
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Skrillex",
+        "id": 3853703
+    },
+    {
+        "type": "Associated Performer",
+        "name": "THEY.",
+        "id": 7296090
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Skrillex",
+        "id": 3853703
+    },
+    {
+        "type": "Producer",
+        "name": "Fedde Le Grand",
+        "id": 3537039
+    },
+    {
+        "type": "Composer",
+        "name": "Fedde Le Grand",
+        "id": 3537039
+    },
+    {
+        "type": "Masterer",
+        "name": "Fedde Le Grand",
+        "id": 3537039
+    },
+    {
+        "type": "Mixer",
+        "name": "Fedde Le Grand",
+        "id": 3537039
+    },
+    {
+        "type": "Programmer",
+        "name": "Fedde Le Grand",
+        "id": 3537039
+    },
+    {
+        "type": "Writer",
+        "name": "Gerry Thomas",
+        "id": 8952644
+    },
+    {
+        "type": "Writer",
+        "name": "Ellen Thomas",
+        "id": 12120916
+    },
+    {
+        "type": "Writer",
+        "name": "Fedde Le Grand",
+        "id": 3537039
+    },
+    {
+        "type": "Lyricist",
+        "name": "Fedde Le Grand",
+        "id": 3537039
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Fedde Le Grand",
+        "id": 3537039
+    },
+    {
+        "type": "Writer",
+        "name": "I. Carey",
+        "id": 12648865
+    },
+    {
+        "type": "Lyricist",
+        "name": "Josh Cumbee",
+        "id": 8825828
+    },
+    {
+        "type": "Lyricist",
+        "name": "Afshin Salmani",
+        "id": 11079075
+    },
+    {
+        "type": "Producer",
+        "name": "Love Harder",
+        "id": 16266968
+    },
+    {
+        "type": "Composer",
+        "name": "Amy Grace",
+        "id": 5355362
+    },
+    {
+        "type": "Composer",
+        "name": "Will Simms",
+        "id": 5959582
+    },
+    {
+        "type": "Composer",
+        "name": "Haj",
+        "id": 7497961
+    },
+    {
+        "type": "DJ",
+        "name": "Fedde Le Grand",
+        "id": 3537039
+    },
+    {
+        "type": "DJ",
+        "name": "Jamie Haj",
+        "id": 12743568
+    },
+    {
+        "type": "Lead Vocalist",
+        "name": "Amy Grace",
+        "id": 5355362
+    },
+    {
+        "type": "Producer",
+        "name": "Tiësto",
+        "id": 3559128
+    },
+    {
+        "type": "Producer",
+        "name": "Mio",
+        "id": 4338417
+    },
+    {
+        "type": "Producer",
+        "name": "Tom Dekkers",
+        "id": 14707068
+    },
+    {
+        "type": "Producer",
+        "name": "Nick Strand",
+        "id": 16822219
+    },
+    {
+        "type": "Programmer",
+        "name": "Tiësto",
+        "id": 3559128
+    },
+    {
+        "type": "Vocals",
+        "name": "Halvor Folstad",
+        "id": 12525596
+    },
+    {
+        "type": "Writer",
+        "name": "Dag Holtan-Hartwig",
+        "id": 11804512
+    },
+    {
+        "type": "Writer",
+        "name": "Erik Smaaland",
+        "id": 12174881
+    },
+    {
+        "type": "Writer",
+        "name": "Halvor Folstad",
+        "id": 12525596
+    },
+    {
+        "type": "Writer",
+        "name": "Niklas Strandbråten",
+        "id": 13792622
+    },
+    {
+        "type": "Writer",
+        "name": "Tijs Verwest",
+        "id": 14676498
+    },
+    {
+        "type": "Writer",
+        "name": "Mikkel Christiansen",
+        "id": 4603304
+    },
+    {
+        "type": "Producer",
+        "name": "Lostboy",
+        "id": 7657449
+    },
+    {
+        "type": "Mixer",
+        "name": "Tom Norris",
+        "id": 4149669
+    },
+    {
+        "type": "Writer",
+        "name": "Amanda Ava Koci",
+        "id": 11181512
+    },
+    {
+        "type": "Writer",
+        "name": "Claudia Valentina",
+        "id": 10294518
+    },
+    {
+        "type": "Writer",
+        "name": "Pablo Bowman",
+        "id": 13890929
+    },
+    {
+        "type": "Writer",
+        "name": "Peter Rycroft",
+        "id": 13981113
+    },
+    {
+        "type": "Writer",
+        "name": "Sarah Blanchard",
+        "id": 14337271
+    },
+    {
+        "type": "Producer",
+        "name": "Josh Wilkinson",
+        "id": 5477119
+    },
+    {
+        "type": "Composer",
+        "name": "Ruth Anne",
+        "id": 3584932
+    },
+    {
+        "type": "Composer",
+        "name": "Josh Wilkinson",
+        "id": 5477119
+    },
+    {
+        "type": "Composer",
+        "name": "BullySongs",
+        "id": 6777461
+    },
+    {
+        "type": "Composer",
+        "name": "Allyson Brooke Hernandez",
+        "id": 11169558
+    },
+    {
+        "type": "Lyricist",
+        "name": "BullySongs",
+        "id": 6777461
+    },
+    {
+        "type": "Lyricist",
+        "name": "Allyson Brooke Hernandez",
+        "id": 11169558
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ruth Anne",
+        "id": 3584932
+    },
+    {
+        "type": "Lyricist",
+        "name": "Josh Wilkinson",
+        "id": 5477119
+    },
+    {
+        "type": "Producer",
+        "name": "Ryan Tedder",
+        "id": 4245497
+    },
+    {
+        "type": "All Instruments",
+        "name": "Lostboy",
+        "id": 7657449
+    },
+    {
+        "type": "A&R Administrator",
+        "name": "Nili Harary",
+        "id": 19511633
+    },
+    {
+        "type": "A&R Direction",
+        "name": "Mikey Parker",
+        "id": 17378043
+    },
+    {
+        "type": "Backing Vocals",
+        "name": "Amy Allen",
+        "id": 5196336
+    },
+    {
+        "type": "Masterer",
+        "name": "Tom Norris",
+        "id": 4149669
+    },
+    {
+        "type": "Programmer",
+        "name": "Lostboy",
+        "id": 7657449
+    },
+    {
+        "type": "Vocals",
+        "name": "Tiësto",
+        "id": 3559128
+    },
+    {
+        "type": "Vocals",
+        "name": "Tate McCrae",
+        "id": 28343204
+    },
+    {
+        "type": "Writer",
+        "name": "Tate McRae",
+        "id": 9380062
+    },
+    {
+        "type": "Writer",
+        "name": "Amy Allen",
+        "id": 5196336
+    },
+    {
+        "type": "Writer",
+        "name": "Tijs M Verwest",
+        "id": 14676486
+    },
+    {
+        "type": "Writer",
+        "name": "Scott Harris",
+        "id": 4305981
+    },
+    {
+        "type": "Writer",
+        "name": "Ryan Tedder",
+        "id": 4245497
+    },
+    {
+        "type": "Producer",
+        "name": "Hightower",
+        "id": 4517376
+    },
+    {
+        "type": "Bass",
+        "name": "Anton Rundberg",
+        "id": 11275151
+    },
+    {
+        "type": "Drums",
+        "name": "Anton Rundberg",
+        "id": 11275151
+    },
+    {
+        "type": "Keyboards",
+        "name": "Anton Rundberg",
+        "id": 11275151
+    },
+    {
+        "type": "Mixer",
+        "name": "Tiësto",
+        "id": 3559128
+    },
+    {
+        "type": "Programmer",
+        "name": "Anton Rundberg",
+        "id": 11275151
+    },
+    {
+        "type": "Strings",
+        "name": "Anton Rundberg",
+        "id": 11275151
+    },
+    {
+        "type": "Vocal Production",
+        "name": "Julia Karlsson",
+        "id": 13019026
+    },
+    {
+        "type": "Vocals",
+        "name": "Yami",
+        "id": 4343935
+    },
+    {
+        "type": "Writer",
+        "name": "James Bell",
+        "id": 4320697
+    },
+    {
+        "type": "Writer",
+        "name": "Anton Rundberg",
+        "id": 11275151
+    },
+    {
+        "type": "Writer",
+        "name": "Julia Karlsson",
+        "id": 13019026
+    },
+    {
+        "type": "Producer",
+        "name": "Robert Falcon",
+        "id": 7875341
+    },
+    {
+        "type": "Producer",
+        "name": "Wolve",
+        "id": 8184624
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Sofia Quinn",
+        "id": 16895701
+    },
+    {
+        "type": "Masterer",
+        "name": "ONE MIX MASTERING",
+        "id": 13860311
+    },
+    {
+        "type": "Mixer",
+        "name": "ONE MIX MASTERING",
+        "id": 13860311
+    },
+    {
+        "type": "Programmer",
+        "name": "Robert Falcon",
+        "id": 7875341
+    },
+    {
+        "type": "Writer",
+        "name": "Robbert Cools",
+        "id": 14199186
+    },
+    {
+        "type": "Writer",
+        "name": "Sofia Quinn",
+        "id": 16895701
+    },
+    {
+        "type": "Writer",
+        "name": "Wolve",
+        "id": 8184624
+    },
+    {
+        "type": "Writer",
+        "name": "Justin Dean Thunderstrom",
+        "id": 29010617
+    },
+    {
+        "type": "Writer",
+        "name": "Austin Taylor Zudeck",
+        "id": 11343906
+    },
+    {
+        "type": "Writer",
+        "name": "Nicholas Eede",
+        "id": 13771323
+    },
+    {
+        "type": "Producer",
+        "name": "Stupid Goldfish",
+        "id": 6594153
+    },
+    {
+        "type": "Producer",
+        "name": "Varun Sony",
+        "id": 14815917
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sonny Bono",
+        "id": 13759
+    },
+    {
+        "type": "Associated Performer",
+        "name": "22Bullets",
+        "id": 7191184
+    },
+    {
+        "type": "Vocal",
+        "name": "Anna Mosten",
+        "id": 4891267
+    },
+    {
+        "type": "Vocal",
+        "name": "Irma Eriksson Wadström",
+        "id": 22579270
+    },
+    {
+        "type": "Producer",
+        "name": "Teemu Brunila",
+        "id": 14616724
+    },
+    {
+        "type": "Keyboards",
+        "name": "Teemu Brunila",
+        "id": 14616724
+    },
+    {
+        "type": "Masterer",
+        "name": "Dave Kutch",
+        "id": 11858000
+    },
+    {
+        "type": "Mixer",
+        "name": "Rob Kinelski",
+        "id": 14221937
+    },
+    {
+        "type": "Programming",
+        "name": "Teemu Brunila",
+        "id": 14616724
+    },
+    {
+        "type": "Writer",
+        "name": "Teemu Brunila",
+        "id": 14616724
+    },
+    {
+        "type": "Writer",
+        "name": "Jonas David Kröper",
+        "id": 12928268
+    },
+    {
+        "type": "Writer",
+        "name": "Carolina Giraldo",
+        "id": 11607797
+    },
+    {
+        "type": "Writer",
+        "name": "Yoshi Breen",
+        "id": 5916380
+    },
+    {
+        "type": "Producer",
+        "name": "Goldfingers",
+        "id": 4091654
+    },
+    {
+        "type": "Keyboards",
+        "name": "Tim Deal",
+        "id": 14678839
+    },
+    {
+        "type": "Programming",
+        "name": "Tim Deal",
+        "id": 14678839
+    },
+    {
+        "type": "Vocal Production",
+        "name": "Bart Schoudel",
+        "id": 11382015
+    },
+    {
+        "type": "Vocals",
+        "name": "Charli XCX",
+        "id": 4542094
+    },
+    {
+        "type": "Writer",
+        "name": "Hight",
+        "id": 8122891
+    },
+    {
+        "type": "Writer",
+        "name": "Frank Nobel",
+        "id": 7504778
+    },
+    {
+        "type": "Writer",
+        "name": "Charli XCX",
+        "id": 4542094
+    },
+    {
+        "type": "Writer",
+        "name": "kiddo",
+        "id": 3960059
+    },
+    {
+        "type": "Writer",
+        "name": "Linus Nordstrom",
+        "id": 13277908
+    },
+    {
+        "type": "Featuring",
+        "name": "Avicii",
+        "id": 3637201
+    },
+    {
+        "type": "Composer",
+        "name": "L. Pergolizzi",
+        "id": 13316890
+    },
+    {
+        "type": "Composer",
+        "name": "P.O. Jettman",
+        "id": 14031571
+    },
+    {
+        "type": "Composer",
+        "name": "T. Bergling",
+        "id": 3637201
+    },
+    {
+        "type": "Composer",
+        "name": "S. Strömstedt",
+        "id": 14509143
+    },
+    {
+        "type": "Composer",
+        "name": "R. Van De Corput",
+        "id": 14290995
+    },
+    {
+        "type": "Composer",
+        "name": "T. Verkuijlen",
+        "id": 14771395
+    },
+    {
+        "type": "Composer",
+        "name": "a. van buuren",
+        "id": 11345296
+    },
+    {
+        "type": "Composer",
+        "name": "b. de goeij",
+        "id": 11393432
+    },
+    {
+        "type": "Composer",
+        "name": "D. Winnel",
+        "id": 12043932
+    },
+    {
+        "type": "Composer",
+        "name": "T. Gold",
+        "id": 14630535
+    },
+    {
+        "type": "Composer",
+        "name": "D. Thivaios",
+        "id": 12030128
+    },
+    {
+        "type": "Composer",
+        "name": "M. Thivaios",
+        "id": 13704347
+    },
+    {
+        "type": "Remixer",
+        "name": "ummet ozcan",
+        "id": 3639086
+    },
+    {
+        "type": "Featuring",
+        "name": "Ruby Prophet",
+        "id": 6213912
+    },
+    {
+        "type": "Composer",
+        "name": "BearClaw",
+        "id": 4626855
+    },
+    {
+        "type": "Composer",
+        "name": "J. Jordan",
+        "id": 9475965
+    },
+    {
+        "type": "Composer",
+        "name": "R. Prophet",
+        "id": 4376117
+    },
+    {
+        "type": "Composer",
+        "name": "J. Hey",
+        "id": 12845032
+    },
+    {
+        "type": "Composer",
+        "name": "S. Janssen",
+        "id": 6384272
+    },
+    {
+        "type": "Composer",
+        "name": "W. Janssen",
+        "id": 6384274
+    },
+    {
+        "type": "Composer",
+        "name": "E. Shaw",
+        "id": 12186203
+    },
+    {
+        "type": "Composer",
+        "name": "L. Snijders",
+        "id": 13319830
+    },
+    {
+        "type": "Composer",
+        "name": "B. Ingrosso",
+        "id": 11458137
+    },
+    {
+        "type": "Composer",
+        "name": "B. Revier",
+        "id": 11524948
+    },
+    {
+        "type": "Composer",
+        "name": "E. Kalberg",
+        "id": 12104019
+    },
+    {
+        "type": "Composer",
+        "name": "H. Lindvall",
+        "id": 12608609
+    },
+    {
+        "type": "Composer",
+        "name": "J. Neijs",
+        "id": 12872173
+    },
+    {
+        "type": "Composer",
+        "name": "J. Sutorius",
+        "id": 13001976
+    },
+    {
+        "type": "Composer",
+        "name": "L. Hansson",
+        "id": 13262429
+    },
+    {
+        "type": "Composer",
+        "name": "L. Perra",
+        "id": 13316909
+    },
+    {
+        "type": "Composer",
+        "name": "S. F. Lint",
+        "id": 14398769
+    },
+    {
+        "type": "Composer",
+        "name": "S. Molijn",
+        "id": 14467502
+    },
+    {
+        "type": "Featuring",
+        "name": "Too Many Zooz",
+        "id": 7212290
+    },
+    {
+        "type": "Composer",
+        "name": "F. Bjarnson",
+        "id": 12231586
+    },
+    {
+        "type": "Composer",
+        "name": "J. Borger",
+        "id": 12782042
+    },
+    {
+        "type": "Composer",
+        "name": "K.C.E. Kankam",
+        "id": 13082804
+    },
+    {
+        "type": "Composer",
+        "name": "T. Illingworth",
+        "id": 14677011
+    },
+    {
+        "type": "Remixer",
+        "name": "Riggi",
+        "id": 6628494
+    },
+    {
+        "type": "Remixer",
+        "name": "Piros",
+        "id": 6628495
+    },
+    {
+        "type": "Featuring",
+        "name": "Luciana",
+        "id": 64568
+    },
+    {
+        "type": "Composer",
+        "name": "N. Clow",
+        "id": 6384278
+    },
+    {
+        "type": "Composer",
+        "name": "C. Gervais",
+        "id": 11641183
+    },
+    {
+        "type": "Composer",
+        "name": "L. Simeca",
+        "id": 13319659
+    },
+    {
+        "type": "Composer",
+        "name": "C. E. Rosario",
+        "id": 11636320
+    },
+    {
+        "type": "Composer",
+        "name": "N. Cruz",
+        "id": 13750015
+    },
+    {
+        "type": "Composer",
+        "name": "W. Van Der Harst",
+        "id": 14953442
+    },
+    {
+        "type": "Composer",
+        "name": "W. van Hanegem",
+        "id": 14953490
+    },
+    {
+        "type": "Composer",
+        "name": "J. van Egmond",
+        "id": 13041467
+    },
+    {
+        "type": "Composer",
+        "name": "R. M. Hall",
+        "id": 14196459
+    },
+    {
+        "type": "Remixer",
+        "name": "Hardwell",
+        "id": 3559773
+    },
+    {
+        "type": "Composer",
+        "name": "C. Cisneros",
+        "id": 11626410
+    },
+    {
+        "type": "Featuring",
+        "name": "Carah Faye",
+        "id": 6215489
+    },
+    {
+        "type": "Composer",
+        "name": "D. Schmitt",
+        "id": 12028027
+    },
+    {
+        "type": "Composer",
+        "name": "J. Gilbert",
+        "id": 12842299
+    },
+    {
+        "type": "Composer",
+        "name": "T. Cooperman",
+        "id": 14611712
+    },
+    {
+        "type": "Composer",
+        "name": "C. Faye",
+        "id": 11639842
+    },
+    {
+        "type": "Composer",
+        "name": "A. Rata",
+        "id": 11285795
+    },
+    {
+        "type": "Composer",
+        "name": "R. Alzate Pasos",
+        "id": 14094522
+    },
+    {
+        "type": "Composer",
+        "name": "A. Eshuijs",
+        "id": 11075982
+    },
+    {
+        "type": "Composer",
+        "name": "C. Richardson",
+        "id": 11781328
+    },
+    {
+        "type": "Composer",
+        "name": "J. Smeele",
+        "id": 13000377
+    },
+    {
+        "type": "Composer",
+        "name": "R. Hofstee",
+        "id": 14161844
+    },
+    {
+        "type": "Composer",
+        "name": "F. le Grand",
+        "id": 12271388
+    },
+    {
+        "type": "Featuring",
+        "name": "Alicia Madison",
+        "id": 3947979
+    },
+    {
+        "type": "Composer",
+        "name": "L.C. van Scheppingen",
+        "id": 13220999
+    },
+    {
+        "type": "Composer",
+        "name": "W.J. Sparks",
+        "id": 14938860
+    },
+    {
+        "type": "Composer",
+        "name": "N. Rotteveel",
+        "id": 13822739
+    },
+    {
+        "type": "Featuring",
+        "name": "Raign",
+        "id": 5923377
+    },
+    {
+        "type": "Composer",
+        "name": "I. Kozhakhanov",
+        "id": 12658565
+    },
+    {
+        "type": "Composer",
+        "name": "M. Martynov",
+        "id": 13655759
+    },
+    {
+        "type": "Composer",
+        "name": "S. Zaytsev",
+        "id": 14587750
+    },
+    {
+        "type": "Composer",
+        "name": "V. Shpak",
+        "id": 14868767
+    },
+    {
+        "type": "Composer",
+        "name": "D. Burykin",
+        "id": 11888960
+    },
+    {
+        "type": "Composer",
+        "name": "S. Leicher",
+        "id": 14460172
+    },
+    {
+        "type": "Composer",
+        "name": "V. Leicher",
+        "id": 14860804
+    },
+    {
+        "type": "Composer",
+        "name": "D. Dugandzic",
+        "id": 11892463
+    },
+    {
+        "type": "Composer",
+        "name": "M. Alebic",
+        "id": 13382823
+    },
+    {
+        "type": "Composer",
+        "name": "J. Walker",
+        "id": 6930879
+    },
+    {
+        "type": "Composer",
+        "name": "M. Sherman",
+        "id": 13701369
+    },
+    {
+        "type": "Composer",
+        "name": "M. Woods",
+        "id": 13721994
+    },
+    {
+        "type": "Remixer",
+        "name": "Lucky Charmes",
+        "id": 4457973
+    },
+    {
+        "type": "Composer",
+        "name": "D. Romers",
+        "id": 12024823
+    },
+    {
+        "type": "Composer",
+        "name": "M. Sudakov",
+        "id": 13703344
+    },
+    {
+        "type": "Featuring",
+        "name": "Dyson",
+        "id": 4705561
+    },
+    {
+        "type": "Composer",
+        "name": "A. Preston",
+        "id": 11283014
+    },
+    {
+        "type": "Composer",
+        "name": "L. Dyson",
+        "id": 13222370
+    },
+    {
+        "type": "Composer",
+        "name": "S. Kleinenberg",
+        "id": 14456103
+    },
+    {
+        "type": "Composer",
+        "name": "T. Helsloot",
+        "id": 14642682
+    },
+    {
+        "type": "Composer",
+        "name": "A. Lindal",
+        "id": 11217370
+    },
+    {
+        "type": "Composer",
+        "name": "R. M. de Lang",
+        "id": 14196145
+    },
+    {
+        "type": "Composer",
+        "name": "S. J. Gorre",
+        "id": 14453149
+    },
+    {
+        "type": "Composer",
+        "name": "D. Odor",
+        "id": 11988482
+    },
+    {
+        "type": "Composer",
+        "name": "M. Harrell",
+        "id": 13577173
+    },
+    {
+        "type": "Composer",
+        "name": "M. Zelei",
+        "id": 13725814
+    },
+    {
+        "type": "Composer",
+        "name": "A. Stolyarov",
+        "id": 11329257
+    },
+    {
+        "type": "Featuring",
+        "name": "Jimmy Gnecco",
+        "id": 3720669
+    },
+    {
+        "type": "Composer",
+        "name": "Disco Killerz",
+        "id": 7255147
+    },
+    {
+        "type": "Composer",
+        "name": "T. Wilkinson",
+        "id": 14772634
+    },
+    {
+        "type": "Remixer",
+        "name": "Morgan Page",
+        "id": 3582212
+    },
+    {
+        "type": "Featuring",
+        "name": "Cornelia Jakobs",
+        "id": 7955690
+    },
+    {
+        "type": "Composer",
+        "name": "M. Hansen",
+        "id": 8386202
+    },
+    {
+        "type": "Composer",
+        "name": "C. Jackobs",
+        "id": 11717732
+    },
+    {
+        "type": "Composer",
+        "name": "C. Stroberg",
+        "id": 11791404
+    },
+    {
+        "type": "Featuring",
+        "name": "Gia",
+        "id": 4372084
+    },
+    {
+        "type": "Composer",
+        "name": "J. St. James",
+        "id": 13001436
+    },
+    {
+        "type": "Composer",
+        "name": "N. Shepard",
+        "id": 13823385
+    },
+    {
+        "type": "Composer",
+        "name": "O. Al Sarraf",
+        "id": 13829981
+    },
+    {
+        "type": "Composer",
+        "name": "Gia",
+        "id": 4372084
+    },
+    {
+        "type": "Remixer",
+        "name": "Breathe Carolina",
+        "id": 3544511
+    },
+    {
+        "type": "Featuring",
+        "name": "Mackenzie Thoms",
+        "id": 7148996
+    },
+    {
+        "type": "Composer",
+        "name": "S. Jones",
+        "id": 8849632
+    },
+    {
+        "type": "Composer",
+        "name": "M. Vangeli",
+        "id": 13719659
+    },
+    {
+        "type": "Featuring",
+        "name": "Thomas Daniel",
+        "id": 7087689
+    },
+    {
+        "type": "Composer",
+        "name": "K. Loi",
+        "id": 6384284
+    },
+    {
+        "type": "Composer",
+        "name": "T. Daniel",
+        "id": 14612125
+    },
+    {
+        "type": "Remixer",
+        "name": "Sick Individuals",
+        "id": 4499504
+    },
+    {
+        "type": "Featuring",
+        "name": "Delaney Jane",
+        "id": 6437372
+    },
+    {
+        "type": "Composer",
+        "name": "D. Jane",
+        "id": 11965038
+    },
+    {
+        "type": "Composer",
+        "name": "D. Nagy",
+        "id": 11986069
+    },
+    {
+        "type": "Composer",
+        "name": "M. Terrana",
+        "id": 13704071
+    },
+    {
+        "type": "Composer",
+        "name": "Z. Milichovszki",
+        "id": 15009836
+    },
+    {
+        "type": "Composer",
+        "name": "B. Ozturk",
+        "id": 11509304
+    },
+    {
+        "type": "Composer",
+        "name": "H. Bass",
+        "id": 12559953
+    },
+    {
+        "type": "Composer",
+        "name": "J. Macaire",
+        "id": 12866152
+    },
+    {
+        "type": "Composer",
+        "name": "J. Stent",
+        "id": 13001304
+    },
+    {
+        "type": "Composer",
+        "name": "M. Stent",
+        "id": 13702924
+    },
+    {
+        "type": "Composer",
+        "name": "T. Stent",
+        "id": 14764619
+    },
+    {
+        "type": "Composer",
+        "name": "D. Bakker",
+        "id": 11886739
+    },
+    {
+        "type": "Composer",
+        "name": "M. Westveen",
+        "id": 13721437
+    },
+    {
+        "type": "Composer",
+        "name": "S. den Daas",
+        "id": 14366723
+    },
+    {
+        "type": "Composer",
+        "name": "E. Jansen",
+        "id": 12103305
+    },
+    {
+        "type": "Composer",
+        "name": "F. Vos",
+        "id": 12346317
+    },
+    {
+        "type": "Composer",
+        "name": "A. Wallbridge",
+        "id": 11349026
+    },
+    {
+        "type": "Producer",
+        "name": "Stonebank",
+        "id": 5603236
+    },
+    {
+        "type": "Producer",
+        "name": "Jonas Blue",
+        "id": 5168248
+    },
+    {
+        "type": "Composer",
+        "name": "Fraser T. Smith",
+        "id": 12318129
+    },
+    {
+        "type": "Composer",
+        "name": "Tijs Verwest",
+        "id": 14676498
+    },
+    {
+        "type": "Composer",
+        "name": "Michael Stonebank",
+        "id": 13595744
+    },
+    {
+        "type": "Composer",
+        "name": "Guy Robin",
+        "id": 3581432
+    },
+    {
+        "type": "Composer",
+        "name": "Wayne Hector",
+        "id": 6868662
+    },
+    {
+        "type": "Lyricist",
+        "name": "Michael Stonebank",
+        "id": 13595744
+    },
+    {
+        "type": "Lyricist",
+        "name": "Tijs Verwest",
+        "id": 14676498
+    },
+    {
+        "type": "Lyricist",
+        "name": "Guy Robin",
+        "id": 3581432
+    },
+    {
+        "type": "Lyricist",
+        "name": "Wayne Hector",
+        "id": 6868662
+    },
+    {
+        "type": "Lyricist",
+        "name": "Fraser T. Smith",
+        "id": 12318129
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Fraser T. Smith",
+        "id": 12318129
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Tiësto",
+        "id": 3559128
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Rita Ora",
+        "id": 4639239
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Jonas Blue",
+        "id": 5168248
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Cameron Gower Poole",
+        "id": 11578137
+    },
+    {
+        "type": "Guitar",
+        "name": "Fraser T. Smith",
+        "id": 12318129
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "Mike Marsh",
+        "id": 8940411
+    },
+    {
+        "type": "Mixer",
+        "name": "Jonas Blue",
+        "id": 5168248
+    },
+    {
+        "type": "Music Production",
+        "name": "Tiësto",
+        "id": 3559128
+    },
+    {
+        "type": "Music Production",
+        "name": "Jonas Blue",
+        "id": 5168248
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Jonas Blue",
+        "id": 5168248
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Mike Marsh",
+        "id": 8940411
+    },
+    {
+        "type": "Vocal Arranger",
+        "name": "Cameron Gower Poole",
+        "id": 11578137
+    },
+    {
+        "type": "Vocal Producer",
+        "name": "Rita Ora",
+        "id": 4639239
+    },
+    {
+        "type": "Vocals",
+        "name": "Rita Ora",
+        "id": 4639239
+    },
+    {
+        "type": "Masterer",
+        "name": "Tiësto",
+        "id": 3559128
+    },
+    {
+        "type": "Writer",
+        "name": "Stacy Ferguson",
+        "id": 10664
+    },
+    {
+        "type": "Writer",
+        "name": "Allan Pineda",
+        "id": 6218868
+    },
+    {
+        "type": "Writer",
+        "name": "Nicholas Roubanis",
+        "id": 8168709
+    },
+    {
+        "type": "Writer",
+        "name": "Thomas Van Musser",
+        "id": 14667646
+    },
+    {
+        "type": "Writer",
+        "name": "Will Adams",
+        "id": 55758
+    },
+    {
+        "type": "Producer",
+        "name": "Raynford Humphrey",
+        "id": 14118944
+    },
+    {
+        "type": "Producer",
+        "name": "Wallis Lane",
+        "id": 14876600
+    },
+    {
+        "type": "Producer",
+        "name": "Julian Dzeko",
+        "id": 13020226
+    },
+    {
+        "type": "Producer",
+        "name": "Luis Torres Raposo",
+        "id": 13343903
+    },
+    {
+        "type": "Composer",
+        "name": "Austin Post",
+        "id": 6521080
+    },
+    {
+        "type": "Composer",
+        "name": "Raynford Humphrey",
+        "id": 14118944
+    },
+    {
+        "type": "Composer",
+        "name": "Luis Torres Raposo",
+        "id": 13343903
+    },
+    {
+        "type": "Composer",
+        "name": "Julian Dzeko",
+        "id": 13020226
+    },
+    {
+        "type": "Lyricist",
+        "name": "Austin Post",
+        "id": 6521080
+    },
+    {
+        "type": "Lyricist",
+        "name": "Julian Dzeko",
+        "id": 13020226
+    },
+    {
+        "type": "Lyricist",
+        "name": "Luis Torres Raposo",
+        "id": 13343903
+    },
+    {
+        "type": "Lyricist",
+        "name": "Raynford Humphrey",
+        "id": 14118944
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Wallis Lane",
+        "id": 14876600
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Post Malone",
+        "id": 6521080
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Preme",
+        "id": 5036048
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Post Malone",
+        "id": 6521080
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Preme",
+        "id": 5036048
+    },
+    {
+        "type": "Vocals",
+        "name": "Preme",
+        "id": 5036048
+    },
+    {
+        "type": "Vocals",
+        "name": "Post Malone",
+        "id": 6521080
+    },
+    {
+        "type": "Producer",
+        "name": "Paul Harris",
+        "id": 3519738
+    },
+    {
+        "type": "Producer",
+        "name": "Toby Scott",
+        "id": 14699188
+    },
+    {
+        "type": "Writer",
+        "name": "Andrew Bullimore",
+        "id": 5930147
+    },
+    {
+        "type": "Writer",
+        "name": "Paul John Harris",
+        "id": 13934305
+    },
+    {
+        "type": "Writer",
+        "name": "Poppy Baskcomb",
+        "id": 14036505
+    },
+    {
+        "type": "Writer",
+        "name": "Tijs M. Verwest",
+        "id": 14676487
+    },
+    {
+        "type": "Writer",
+        "name": "Toby Scott",
+        "id": 14699188
+    },
+    {
+        "type": "Producer",
+        "name": "Hardwell",
+        "id": 3559773
+    },
+    {
+        "type": "Producer",
+        "name": "Maddix",
+        "id": 3713015
+    },
+    {
+        "type": "Composer",
+        "name": "F. Amodei",
+        "id": 12222615
+    },
+    {
+        "type": "Lyricist",
+        "name": "F. Amodei",
+        "id": 12222615
+    },
+    {
+        "type": "Producer",
+        "name": "W&W",
+        "id": 3569382
+    },
+    {
+        "type": "Composer",
+        "name": "Willem van Hanegem",
+        "id": 3600002
+    },
+    {
+        "type": "Composer",
+        "name": "Jonathan Smith",
+        "id": 4401821
+    },
+    {
+        "type": "Composer",
+        "name": "Robbert Van De Corput",
+        "id": 8189348
+    },
+    {
+        "type": "Composer",
+        "name": "Ward van der Harst",
+        "id": 14883272
+    },
+    {
+        "type": "Producer",
+        "name": "Robbert Van De Corput",
+        "id": 8189348
+    },
+    {
+        "type": "Lyricist",
+        "name": "Robbert Van De Corput",
+        "id": 8189348
+    },
+    {
+        "type": "Producer",
+        "name": "Swagga Bob",
+        "id": 7967444
+    },
+    {
+        "type": "Producer",
+        "name": "Jeremy Skaller",
+        "id": 12821770
+    },
+    {
+        "type": "Composer",
+        "name": "P. Warrington",
+        "id": 14066023
+    },
+    {
+        "type": "Composer",
+        "name": "J. Reesema",
+        "id": 12995571
+    },
+    {
+        "type": "Composer",
+        "name": "Diederik Van Elsas",
+        "id": 11944198
+    },
+    {
+        "type": "Composer",
+        "name": "Joren van der Voort",
+        "id": 12946739
+    },
+    {
+        "type": "Lyricist",
+        "name": "J. Reesema",
+        "id": 12995571
+    },
+    {
+        "type": "Lyricist",
+        "name": "P. Warrington",
+        "id": 14066023
+    },
+    {
+        "type": "Lyricist",
+        "name": "R. Van De Corput",
+        "id": 14290995
+    },
+    {
+        "type": "Lyricist",
+        "name": "Diederik Van Elsas",
+        "id": 11944198
+    },
+    {
+        "type": "Lyricist",
+        "name": "Joren van der Voort",
+        "id": 12946739
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Hardwell",
+        "id": 3559773
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Jay Sean",
+        "id": 3512185
+    },
+    {
+        "type": "Engineer",
+        "name": "Swagga Bob",
+        "id": 7967444
+    },
+    {
+        "type": "Engineer",
+        "name": "Jeremy Skaller",
+        "id": 12821770
+    },
+    {
+        "type": "Engineer",
+        "name": "Anthony Kronfle",
+        "id": 11259365
+    },
+    {
+        "type": "Composer",
+        "name": "E. Vloeimans",
+        "id": 12205362
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Eric Vloeimans",
+        "id": 3932228
+    },
+    {
+        "type": "Producer",
+        "name": "Armin van Buuren",
+        "id": 3521263
+    },
+    {
+        "type": "Producer",
+        "name": "Benno de Goeij",
+        "id": 11418112
+    },
+    {
+        "type": "Composer",
+        "name": "Niels Geusebroek",
+        "id": 4345473
+    },
+    {
+        "type": "Composer",
+        "name": "Benno de Goeij",
+        "id": 11418112
+    },
+    {
+        "type": "Composer",
+        "name": "Dennis Princewell Stehr",
+        "id": 11918020
+    },
+    {
+        "type": "Composer",
+        "name": "Armin van Buuren",
+        "id": 3521263
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Mr. Probz",
+        "id": 4939677
+    },
+    {
+        "type": "Composer",
+        "name": "A. Moe",
+        "id": 11190999
+    },
+    {
+        "type": "Composer",
+        "name": "C. Fränkel",
+        "id": 11640550
+    },
+    {
+        "type": "Composer",
+        "name": "S. Thott",
+        "id": 14548854
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Cimo Fränkel",
+        "id": 5928870
+    },
+    {
+        "type": "Composer",
+        "name": "A. Taylor",
+        "id": 6784943
+    },
+    {
+        "type": "Composer",
+        "name": "N. Geusebroek",
+        "id": 13767378
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Angel Taylor",
+        "id": 3804111
+    },
+    {
+        "type": "Composer",
+        "name": "D. GIBSON",
+        "id": 7366141
+    },
+    {
+        "type": "Composer",
+        "name": "S. Decourcy",
+        "id": 14366530
+    },
+    {
+        "type": "Composer",
+        "name": "H. Kooreneef",
+        "id": 12607797
+    },
+    {
+        "type": "Composer",
+        "name": "L. Wolf",
+        "id": 13356030
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Sarah deCourcy",
+        "id": 7319696
+    },
+    {
+        "type": "Producer",
+        "name": "Kensington",
+        "id": 3712374
+    },
+    {
+        "type": "Composer",
+        "name": "Casper Starreveld",
+        "id": 11616391
+    },
+    {
+        "type": "Composer",
+        "name": "Eloi Youssef",
+        "id": 12125305
+    },
+    {
+        "type": "Composer",
+        "name": "Jan Haker",
+        "id": 12750150
+    },
+    {
+        "type": "Composer",
+        "name": "Niles Vandenberg",
+        "id": 13796845
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Kensington",
+        "id": 3712374
+    },
+    {
+        "type": "Composer",
+        "name": "N. Molinder",
+        "id": 13806280
+    },
+    {
+        "type": "Composer",
+        "name": "D. Jost",
+        "id": 11974445
+    },
+    {
+        "type": "Composer",
+        "name": "J. Alkenäs",
+        "id": 12729174
+    },
+    {
+        "type": "Composer",
+        "name": "J. Persson",
+        "id": 12991976
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Lyrica Anderson",
+        "id": 5060824
+    },
+    {
+        "type": "Composer",
+        "name": "T. James",
+        "id": 5602183
+    },
+    {
+        "type": "Composer",
+        "name": "A. Armato",
+        "id": 11029403
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Rock Mafia",
+        "id": 5223734
+    },
+    {
+        "type": "Composer",
+        "name": "Andrew Bullimore",
+        "id": 5930147
+    },
+    {
+        "type": "Composer",
+        "name": "Mike Kintish",
+        "id": 13621126
+    },
+    {
+        "type": "Lyricist",
+        "name": "Andrew Bullimore",
+        "id": 5930147
+    },
+    {
+        "type": "Lyricist",
+        "name": "Mike Kintish",
+        "id": 13621126
+    },
+    {
+        "type": "Featured Artist",
+        "name": "BullySongs",
+        "id": 6777461
+    },
+    {
+        "type": "Composer",
+        "name": "C. Terhoeven",
+        "id": 11791822
+    },
+    {
+        "type": "Composer",
+        "name": "A. Bullimore",
+        "id": 11044981
+    },
+    {
+        "type": "Composer",
+        "name": "M. Kintish",
+        "id": 13651109
+    },
+    {
+        "type": "Composer",
+        "name": "s. collisson",
+        "id": 14360232
+    },
+    {
+        "type": "Composer",
+        "name": "J. J. Newman",
+        "id": 12859746
+    },
+    {
+        "type": "Composer",
+        "name": "P. Kirtley",
+        "id": 14023197
+    },
+    {
+        "type": "Featured Artist",
+        "name": "DBX",
+        "id": 3601081
+    },
+    {
+        "type": "Composer",
+        "name": "L. Heard",
+        "id": 13262675
+    },
+    {
+        "type": "Composer",
+        "name": "Gavin DeGraw",
+        "id": 2897
+    },
+    {
+        "type": "Composer",
+        "name": "John Ewbank",
+        "id": 6162761
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Gavin DeGraw",
+        "id": 2897
+    },
+    {
+        "type": "Producer",
+        "name": "Dimitri Vegas",
+        "id": 3851676
+    },
+    {
+        "type": "Producer",
+        "name": "Like Mike",
+        "id": 3983895
+    },
+    {
+        "type": "Composer",
+        "name": "Dimitri Thivaios",
+        "id": 11953912
+    },
+    {
+        "type": "Composer",
+        "name": "Michael Thivaios",
+        "id": 13596201
+    },
+    {
+        "type": "Lyricist",
+        "name": "Michael Thivaios",
+        "id": 13596201
+    },
+    {
+        "type": "Lyricist",
+        "name": "Dimitri Thivaios",
+        "id": 11953912
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Dimitri Vegas",
+        "id": 3851676
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Like Mike",
+        "id": 3983895
+    },
+    {
+        "type": "Producer",
+        "name": "Nicky Romero",
+        "id": 3577533
+    },
+    {
+        "type": "Composer",
+        "name": "Charles Pettiford",
+        "id": 11654916
+    },
+    {
+        "type": "Composer",
+        "name": "Celita Evans",
+        "id": 11634081
+    },
+    {
+        "type": "Composer",
+        "name": "Edmund John Simons",
+        "id": 12079086
+    },
+    {
+        "type": "Composer",
+        "name": "Gregory Carlton Wigfall",
+        "id": 12481732
+    },
+    {
+        "type": "Composer",
+        "name": "Jerry Bloodrock",
+        "id": 12826688
+    },
+    {
+        "type": "Composer",
+        "name": "Mostyn Rowlands",
+        "id": 13686569
+    },
+    {
+        "type": "Composer",
+        "name": "Richard Lee Fowler",
+        "id": 14172735
+    },
+    {
+        "type": "Composer",
+        "name": "Thomas Owen",
+        "id": 14665084
+    },
+    {
+        "type": "Lyricist",
+        "name": "Thomas Owen",
+        "id": 14665084
+    },
+    {
+        "type": "Lyricist",
+        "name": "Celita Evans",
+        "id": 11634081
+    },
+    {
+        "type": "Lyricist",
+        "name": "Edmund John Simons",
+        "id": 12079086
+    },
+    {
+        "type": "Lyricist",
+        "name": "Gregory Carlton Wigfall",
+        "id": 12481732
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jerry Bloodrock",
+        "id": 12826688
+    },
+    {
+        "type": "Lyricist",
+        "name": "Mostyn Rowlands",
+        "id": 13686569
+    },
+    {
+        "type": "Lyricist",
+        "name": "Richard Lee Fowler",
+        "id": 14172735
+    },
+    {
+        "type": "Lyricist",
+        "name": "Charles Pettiford",
+        "id": 11654916
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Nicky Romero",
+        "id": 3577533
+    },
+    {
+        "type": "Producer",
+        "name": "KSHMR",
+        "id": 5451351
+    },
+    {
+        "type": "Composer",
+        "name": "Niles Dhar-Holowell",
+        "id": 13796750
+    },
+    {
+        "type": "Lyricist",
+        "name": "Niles Dhar-Holowell",
+        "id": 13796750
+    },
+    {
+        "type": "Associated Performer",
+        "name": "KSHMR",
+        "id": 5451351
+    },
+    {
+        "type": "Producer",
+        "name": "Moguai",
+        "id": 3544379
+    },
+    {
+        "type": "Composer",
+        "name": "Dennis Bierbrodt",
+        "id": 11916034
+    },
+    {
+        "type": "Composer",
+        "name": "André Tegeler",
+        "id": 11222020
+    },
+    {
+        "type": "Composer",
+        "name": "Guido Kramer",
+        "id": 12497490
+    },
+    {
+        "type": "Composer",
+        "name": "Jürgen Dohr",
+        "id": 13033757
+    },
+    {
+        "type": "Lyricist",
+        "name": "André Tegeler",
+        "id": 11222020
+    },
+    {
+        "type": "Lyricist",
+        "name": "Dennis Bierbrodt",
+        "id": 11916034
+    },
+    {
+        "type": "Lyricist",
+        "name": "Guido Kramer",
+        "id": 12497490
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ward van der Harst",
+        "id": 14883272
+    },
+    {
+        "type": "Lyricist",
+        "name": "Willem van Hanegem",
+        "id": 3600002
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jürgen Dohr",
+        "id": 13033757
+    },
+    {
+        "type": "Associated Performer",
+        "name": "W&W",
+        "id": 3569382
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Moguai",
+        "id": 3544379
+    },
+    {
+        "type": "Composer",
+        "name": "Radric Davis",
+        "id": 55577
+    },
+    {
+        "type": "Composer",
+        "name": "Angemi Antonini",
+        "id": 11241431
+    },
+    {
+        "type": "Composer",
+        "name": "Cheksea Davenport",
+        "id": 11664411
+    },
+    {
+        "type": "Composer",
+        "name": "Jordan Harry",
+        "id": 12944226
+    },
+    {
+        "type": "Composer",
+        "name": "Michael Patrick McNamara",
+        "id": 13592778
+    },
+    {
+        "type": "Composer",
+        "name": "Monroe Baum",
+        "id": 13673610
+    },
+    {
+        "type": "Composer",
+        "name": "Timofey Reznikov",
+        "id": 14681562
+    },
+    {
+        "type": "Lyricist",
+        "name": "Timofey Reznikov",
+        "id": 14681562
+    },
+    {
+        "type": "Lyricist",
+        "name": "Radric Davis",
+        "id": 55577
+    },
+    {
+        "type": "Lyricist",
+        "name": "Angemi Antonini",
+        "id": 11241431
+    },
+    {
+        "type": "Lyricist",
+        "name": "Cheksea Davenport",
+        "id": 11664411
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jordan Harry",
+        "id": 12944226
+    },
+    {
+        "type": "Lyricist",
+        "name": "Michael Patrick McNamara",
+        "id": 13592778
+    },
+    {
+        "type": "Lyricist",
+        "name": "Monroe Baum",
+        "id": 13673610
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Bassjackers",
+        "id": 3988499
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Gucci Mane",
+        "id": 55577
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Gucci Mane",
+        "id": 55577
+    },
+    {
+        "type": "Re-Mixer",
+        "name": "Bassjackers",
+        "id": 3988499
+    },
+    {
+        "type": "Re-Mixer",
+        "name": "Dimitri Vegas",
+        "id": 3851676
+    },
+    {
+        "type": "Re-Mixer",
+        "name": "Like Mike",
+        "id": 3983895
+    },
+    {
+        "type": "Producer",
+        "name": "Bassjackers",
+        "id": 3988499
+    },
+    {
+        "type": "Composer",
+        "name": "Marlon Flohr",
+        "id": 13464622
+    },
+    {
+        "type": "Composer",
+        "name": "Ralph van Hilst",
+        "id": 14094282
+    },
+    {
+        "type": "Lyricist",
+        "name": "Thom van der Bruggen",
+        "id": 14669375
+    },
+    {
+        "type": "Lyricist",
+        "name": "Marlon Flohr",
+        "id": 13464622
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ralph van Hilst",
+        "id": 14094282
+    },
+    {
+        "type": "Composer",
+        "name": "Grace Tither",
+        "id": 6497181
+    },
+    {
+        "type": "Composer",
+        "name": "Jamal Simon",
+        "id": 12730194
+    },
+    {
+        "type": "Composer",
+        "name": "Ki Fitzgerald",
+        "id": 13118907
+    },
+    {
+        "type": "Composer",
+        "name": "Kurtis Wells",
+        "id": 13174530
+    },
+    {
+        "type": "Composer",
+        "name": "Mark Blackwell",
+        "id": 13451895
+    },
+    {
+        "type": "Lyricist",
+        "name": "Grace Tither",
+        "id": 6497181
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jamal Simon",
+        "id": 12730194
+    },
+    {
+        "type": "Lyricist",
+        "name": "Ki Fitzgerald",
+        "id": 13118907
+    },
+    {
+        "type": "Lyricist",
+        "name": "Kurtis Wells",
+        "id": 13174530
+    },
+    {
+        "type": "Lyricist",
+        "name": "Mark Blackwell",
+        "id": 13451895
+    },
+    {
+        "type": "Re-Mixer",
+        "name": "Brennan Heart",
+        "id": 3645402
+    },
+    {
+        "type": "Re-Mixer",
+        "name": "3 Are Legend",
+        "id": 11021885
+    },
+    {
+        "type": "Featuring",
+        "name": "Kensington",
+        "id": 3712374
+    },
+    {
+        "type": "Composer",
+        "name": "C. Starreveld",
+        "id": 11791224
+    },
+    {
+        "type": "Composer",
+        "name": "E. Youssef",
+        "id": 12209003
+    },
+    {
+        "type": "Composer",
+        "name": "J. Haker",
+        "id": 12843795
+    },
+    {
+        "type": "Composer",
+        "name": "N. Vandenberg",
+        "id": 13827517
+    },
+    {
+        "type": "Remixer",
+        "name": "First State",
+        "id": 3916965
+    },
+    {
+        "type": "Featuring",
+        "name": "Olaf Blackwood",
+        "id": 8378245
+    },
+    {
+        "type": "Composer",
+        "name": "F. Garibay",
+        "id": 12256374
+    },
+    {
+        "type": "Composer",
+        "name": "O. Blackwood",
+        "id": 13831317
+    },
+    {
+        "type": "Composer",
+        "name": "R.M. de Lang",
+        "id": 14196146
+    },
+    {
+        "type": "Composer",
+        "name": "S.J. Gorre",
+        "id": 14453150
+    },
+    {
+        "type": "Composer",
+        "name": "B. Julio",
+        "id": 11465515
+    },
+    {
+        "type": "Composer",
+        "name": "C. Macalvo",
+        "id": 11739655
+    },
+    {
+        "type": "Remixer",
+        "name": "Yoel Lewis",
+        "id": 6411366
+    },
+    {
+        "type": "Remixer",
+        "name": "Grahham Bell",
+        "id": 12472511
+    },
+    {
+        "type": "Featuring",
+        "name": "Josh Cumbee",
+        "id": 8825828
+    },
+    {
+        "type": "Composer",
+        "name": "G. Groothedde",
+        "id": 12413238
+    },
+    {
+        "type": "Composer",
+        "name": "J. Cumbee",
+        "id": 12787819
+    },
+    {
+        "type": "Composer",
+        "name": "T. Gad",
+        "id": 14630075
+    },
+    {
+        "type": "Composer",
+        "name": "A. Salmani",
+        "id": 11319331
+    },
+    {
+        "type": "Remixer",
+        "name": "Arkham Knights",
+        "id": 5883460
+    },
+    {
+        "type": "Featuring",
+        "name": "Trevor Guthrie",
+        "id": 5916587
+    },
+    {
+        "type": "Composer",
+        "name": "J. Ewbank",
+        "id": 12838726
+    },
+    {
+        "type": "Composer",
+        "name": "J. Vaughan",
+        "id": 13041832
+    },
+    {
+        "type": "Composer",
+        "name": "T. Guthrie",
+        "id": 14630863
+    },
+    {
+        "type": "Composer",
+        "name": "E. Iker",
+        "id": 12100921
+    },
+    {
+        "type": "Composer",
+        "name": "M. Stannius",
+        "id": 13702800
+    },
+    {
+        "type": "Composer",
+        "name": "G. Pernet",
+        "id": 12468819
+    },
+    {
+        "type": "Composer",
+        "name": "J. Drexhage",
+        "id": 12790957
+    },
+    {
+        "type": "Composer",
+        "name": "J. Van Beek",
+        "id": 13041282
+    },
+    {
+        "type": "Composer",
+        "name": "L. NASH",
+        "id": 13292963
+    },
+    {
+        "type": "Composer",
+        "name": "R. Mahu",
+        "id": 14195095
+    },
+    {
+        "type": "Featuring",
+        "name": "Hilight Tribe",
+        "id": 4031913
+    },
+    {
+        "type": "Composer",
+        "name": "A. Saharai",
+        "id": 11319068
+    },
+    {
+        "type": "Composer",
+        "name": "G. Ruzé",
+        "id": 12490574
+    },
+    {
+        "type": "Composer",
+        "name": "L. Didier",
+        "id": 13221773
+    },
+    {
+        "type": "Composer",
+        "name": "L. Pelissier",
+        "id": 13316831
+    },
+    {
+        "type": "Composer",
+        "name": "M. Duroy",
+        "id": 13551009
+    },
+    {
+        "type": "Composer",
+        "name": "M. Kadosh",
+        "id": 13650408
+    },
+    {
+        "type": "Composer",
+        "name": "S. Landau",
+        "id": 14458561
+    },
+    {
+        "type": "Composer",
+        "name": "S. Garcia",
+        "id": 9372941
+    },
+    {
+        "type": "Remixer",
+        "name": "Wildstylez",
+        "id": 3659001
+    },
+    {
+        "type": "Composer",
+        "name": "K. Kössler",
+        "id": 13134324
+    },
+    {
+        "type": "Composer",
+        "name": "S. Schweigkofler",
+        "id": 14507365
+    },
+    {
+        "type": "Producer",
+        "name": "Aleesia",
+        "id": 5929483
+    },
+    {
+        "type": "Producer",
+        "name": "Sander van Doorn",
+        "id": 3529018
+    },
+    {
+        "type": "Producer",
+        "name": "Martin Garrix",
+        "id": 4715335
+    },
+    {
+        "type": "Producer",
+        "name": "DVBBS",
+        "id": 5413764
+    },
+    {
+        "type": "Composer",
+        "name": "Aleesia",
+        "id": 5929483
+    },
+    {
+        "type": "Composer",
+        "name": "DVBBS",
+        "id": 5413764
+    },
+    {
+        "type": "Composer",
+        "name": "Sander van Doorn",
+        "id": 3529018
+    },
+    {
+        "type": "Composer",
+        "name": "Martin Garrix",
+        "id": 4715335
+    },
+    {
+        "type": "Lyricist",
+        "name": "Aleesia",
+        "id": 5929483
+    },
+    {
+        "type": "Lyricist",
+        "name": "Sander van Doorn",
+        "id": 3529018
+    },
+    {
+        "type": "Lyricist",
+        "name": "Martin Garrix",
+        "id": 4715335
+    },
+    {
+        "type": "Lyricist",
+        "name": "DVBBS",
+        "id": 5413764
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Aleesia",
+        "id": 5929483
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Aleesia",
+        "id": 5929483
+    },
+    {
+        "type": "Vocals",
+        "name": "Aleesia",
+        "id": 5929483
+    },
+    {
+        "type": "Producer",
+        "name": "Jobke Heiblom",
+        "id": 12881823
+    },
+    {
+        "type": "Composer",
+        "name": "Jobke Heiblom",
+        "id": 12881823
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jobke Heiblom",
+        "id": 12881823
+    },
+    {
+        "type": "Producer",
+        "name": "Jay Hardway",
+        "id": 5661376
+    },
+    {
+        "type": "Composer",
+        "name": "Jay Hardway",
+        "id": 5661376
+    },
+    {
+        "type": "Lyricist",
+        "name": "Jay Hardway",
+        "id": 5661376
+    },
+    {
+        "type": "Engineer",
+        "name": "Martin Garrix",
+        "id": 4715335
+    },
+    {
+        "type": "Engineer",
+        "name": "Jay Hardway",
+        "id": 5661376
+    },
+    {
+        "type": "Mixer",
+        "name": "Martin Garrix",
+        "id": 4715335
+    },
+    {
+        "type": "Mixer",
+        "name": "Jay Hardway",
+        "id": 5661376
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Martin Garrix",
+        "id": 4715335
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Jay Hardway",
+        "id": 5661376
+    },
+    {
+        "type": "Producer",
+        "name": "Harris & Ford",
+        "id": 4070874
+    },
+    {
+        "type": "Programmer",
+        "name": "Sander van Doorn",
+        "id": 3529018
+    },
+    {
+        "type": "Programmer",
+        "name": "Harris & Ford",
+        "id": 4070874
+    },
+    {
+        "type": "Writer",
+        "name": "C. Pohl",
+        "id": 11776168
+    },
+    {
+        "type": "Writer",
+        "name": "S. Ketelaars",
+        "id": 14454945
+    },
+    {
+        "type": "Writer",
+        "name": "P. Pöhl",
+        "id": 18327080
+    },
+    {
+        "type": "Writer",
+        "name": "K. Kridlo",
+        "id": 18327081
+    },
+    {
+        "type": "Remixer",
+        "name": "LVNDSCAPE",
+        "id": 7173767
+    },
+    {
+        "type": "Writer",
+        "name": "M. Kante",
+        "id": 13650531
+    },
+    {
+        "type": "Writer",
+        "name": "S. Keita",
+        "id": 14454666
+    },
+    {
+        "type": "Producer",
+        "name": "All We Do",
+        "id": 4801318
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Belle Humble",
+        "id": 3950605
+    },
+    {
+        "type": "Programmer",
+        "name": "All We Do",
+        "id": 4801318
+    },
+    {
+        "type": "Writer",
+        "name": "C. Fabich",
+        "id": 11639657
+    },
+    {
+        "type": "Writer",
+        "name": "T. Zwiefler",
+        "id": 14778764
+    },
+    {
+        "type": "Producer",
+        "name": "Moti",
+        "id": 4612774
+    },
+    {
+        "type": "Composer",
+        "name": "J. van der Voort",
+        "id": 13041389
+    },
+    {
+        "type": "Composer",
+        "name": "S. Ketelaars",
+        "id": 14454945
+    },
+    {
+        "type": "Composer",
+        "name": "T. Romme",
+        "id": 14758531
+    },
+    {
+        "type": "Composer",
+        "name": "U. Sand",
+        "id": 14799302
+    },
+    {
+        "type": "Writer",
+        "name": "T. Romme",
+        "id": 14758531
+    },
+    {
+        "type": "Writer",
+        "name": "U. Sand",
+        "id": 14799302
+    },
+    {
+        "type": "Writer",
+        "name": "J. van der Voort",
+        "id": 13041389
+    },
+    {
+        "type": "Producer",
+        "name": "LVNDSCAPE",
+        "id": 7173767
+    },
+    {
+        "type": "Writer",
+        "name": "Julian Ashley Peake",
+        "id": 13019631
+    },
+    {
+        "type": "Writer",
+        "name": "Sebastien Philippe B J Fontaine",
+        "id": 14377446
+    },
+    {
+        "type": "Writer",
+        "name": "Thomas Newman",
+        "id": 8654
+    },
+    {
+        "type": "Writer",
+        "name": "Delline Bass",
+        "id": 6026150
+    },
+    {
+        "type": "Producer",
+        "name": "Oliver Heldens",
+        "id": 4928018
+    },
+    {
+        "type": "Composer",
+        "name": "R. Clark",
+        "id": 14124960
+    },
+    {
+        "type": "Composer",
+        "name": "Oliver Heldens",
+        "id": 4928018
+    },
+    {
+        "type": "Composer",
+        "name": "S.Ketelaars",
+        "id": 14454944
+    },
+    {
+        "type": "Lyricist",
+        "name": "S.Ketelaars",
+        "id": 14454944
+    },
+    {
+        "type": "Lyricist",
+        "name": "R. Clark",
+        "id": 14124960
+    },
+    {
+        "type": "Lyricist",
+        "name": "Oliver Heldens",
+        "id": 4928018
+    },
+    {
+        "type": "Writer",
+        "name": "R. Clark",
+        "id": 14124960
+    },
+    {
+        "type": "Writer",
+        "name": "O. Heldens",
+        "id": 13838746
+    },
+    {
+        "type": "Writer",
+        "name": "J. Smith",
+        "id": 4457756
+    },
+    {
+        "type": "Writer",
+        "name": "B. Qureshi",
+        "id": 11510207
+    },
+    {
+        "type": "Writer",
+        "name": "O. Sim",
+        "id": 13877751
+    },
+    {
+        "type": "Writer",
+        "name": "R. Croft",
+        "id": 14125640
+    },
+    {
+        "type": "Writer",
+        "name": "C. Ryden",
+        "id": 11788555
+    },
+    {
+        "type": "Writer",
+        "name": "W. Simister",
+        "id": 14951830
+    },
+    {
+        "type": "Writer",
+        "name": "J.A.C. Hajigeorgiou",
+        "id": 20039354
+    },
+    {
+        "type": "Writer",
+        "name": "K.J. Kempthorn",
+        "id": 21160254
+    },
+    {
+        "type": "Producer",
+        "name": "Jean-Michel Jarre",
+        "id": 3963778
+    },
+    {
+        "type": "Composer",
+        "name": "Jean-Michel Jarre",
+        "id": 3963778
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Armin van Buuren",
+        "id": 3521263
+    },
+    {
+        "type": "Associated Performer",
+        "name": "Jean-Michel Jarre",
+        "id": 3963778
+    },
+    {
+        "type": "Engineer",
+        "name": "Armin van Buuren",
+        "id": 3521263
+    },
+    {
+        "type": "Engineer",
+        "name": "Jean-Michel Jarre",
+        "id": 3963778
+    },
+    {
+        "type": "Mastering Engineer",
+        "name": "David Dadwater",
+        "id": 11864906
+    },
+    {
+        "type": "Mixing Engineer",
+        "name": "Jean-Michel Jarre",
+        "id": 3963778
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Jean-Michel Jarre",
+        "id": 3963778
+    },
+    {
+        "type": "Recording Engineer",
+        "name": "Joachim Garraud",
+        "id": 3668405
+    },
+    {
+        "type": "Producer",
+        "name": "Vini Vici",
+        "id": 5170851
+    },
+    {
+        "type": "Composer",
+        "name": "Aviram Saharai",
+        "id": 11347681
+    },
+    {
+        "type": "Composer",
+        "name": "Gregory Ruzé",
+        "id": 12483034
+    },
+    {
+        "type": "Composer",
+        "name": "Laurent Didier",
+        "id": 13211013
+    },
+    {
+        "type": "Composer",
+        "name": "Ludovic Pelissier",
+        "id": 13333625
+    },
+    {
+        "type": "Composer",
+        "name": "Matan Kadosh",
+        "id": 13492873
+    },
+    {
+        "type": "Composer",
+        "name": "Mathias Duroy",
+        "id": 13496120
+    },
+    {
+        "type": "Composer",
+        "name": "Sebastien Garcia",
+        "id": 14376891
+    },
+    {
+        "type": "Composer",
+        "name": "Suzanne Landau",
+        "id": 14574485
+    },
+    {
+        "type": "Remixer",
+        "name": "Tiësto",
+        "id": 3559128
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Tiësto",
+        "id": 3559128
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Tiësto",
+        "id": 3559128
+    },
+    {
+        "type": "Producer",
+        "name": "DubVision",
+        "id": 3713881
+    },
+    {
+        "type": "Remixer",
+        "name": "DubVision",
+        "id": 3713881
+    },
+    {
+        "type": "Additional Producer",
+        "name": "DubVision",
+        "id": 3713881
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "DubVision",
+        "id": 3713881
+    },
+    {
+        "type": "Producer",
+        "name": "Redondo",
+        "id": 3706182
+    },
+    {
+        "type": "Producer",
+        "name": "Ferreck Dawn",
+        "id": 3872467
+    },
+    {
+        "type": "Remixer",
+        "name": "Ferreck Dawn",
+        "id": 3872467
+    },
+    {
+        "type": "Remixer",
+        "name": "Redondo",
+        "id": 3706182
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Redondo",
+        "id": 3706182
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Ferreck Dawn",
+        "id": 3872467
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Ferreck Dawn",
+        "id": 3872467
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Redondo",
+        "id": 3706182
+    },
+    {
+        "type": "Producer",
+        "name": "Metrik",
+        "id": 3600840
+    },
+    {
+        "type": "Remixer",
+        "name": "Metrik",
+        "id": 3600840
+    },
+    {
+        "type": "Additional Producer",
+        "name": "Metrik",
+        "id": 3600840
+    },
+    {
+        "type": "Studio Personnel",
+        "name": "Metrik",
+        "id": 3600840
+    },
+    {
+        "type": "Producer",
+        "name": "Andrew Bullimore",
+        "id": 5930147
+    },
+    {
+        "type": "Composer",
+        "name": "Josh Records",
+        "id": 17143280
+    },
+    {
+        "type": "Remixer",
+        "name": "Mark Sixma",
+        "id": 3917175
+    },
+    {
+        "type": "Composer",
+        "name": "D. P. Stehr",
+        "id": 12017082
+    },
+    {
+        "type": "Composer",
+        "name": "M. Ben-Ari",
+        "id": 13535864
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Miri Ben-Ari",
+        "id": 24913
+    },
+    {
+        "type": "Composer",
+        "name": "Trevor Guthrie",
+        "id": 5916587
+    },
+    {
+        "type": "Composer",
+        "name": "Jenson Vaughan",
+        "id": 5924770
+    },
+    {
+        "type": "Composer",
+        "name": "Paul Barry",
+        "id": 4665703
+    },
+    {
+        "type": "Composer",
+        "name": "Cindy Alma",
+        "id": 5924885
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Cindy Alma",
+        "id": 5924885
+    },
+    {
+        "type": "Composer",
+        "name": "A. van Buuren/B. de Goeij/F. Cutler",
+        "id": 11345342
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Fiora",
+        "id": 5924916
+    },
+    {
+        "type": "Composer",
+        "name": "A. van Buuren/B. de Goeij",
+        "id": 11345314
+    },
+    {
+        "type": "Composer",
+        "name": "L. Jansen",
+        "id": 13287070
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Laura Jansen",
+        "id": 3877134
+    },
+    {
+        "type": "Composer",
+        "name": "V. Horn",
+        "id": 14829879
+    },
+    {
+        "type": "Composer",
+        "name": "Dmile",
+        "id": 7462258
+    },
+    {
+        "type": "Composer",
+        "name": "L. Evans",
+        "id": 13255351
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Lauren Evans",
+        "id": 5959717
+    },
+    {
+        "type": "Composer",
+        "name": "A. van Buuren/B. de Goeij/M. Nervo/O. Nervo",
+        "id": 28941364
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Laura V.",
+        "id": 10045013
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Laura V",
+        "id": 5937407
+    },
+    {
+        "type": "Composer",
+        "name": "A. van Buuren/B. de Goeij/A. Abrams",
+        "id": 28941365
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Aruna",
+        "id": 3569334
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Emma Hewitt",
+        "id": 3637982
+    },
+    {
+        "type": "Composer",
+        "name": "A. van Buuren/B. de Goeij/R. Bedford",
+        "id": 28941366
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Richard Bedford",
+        "id": 3988919
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Bagga Bownz",
+        "id": 6423087
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Trevor Guthrie",
+        "id": 5916587
+    },
+    {
+        "type": "Composer",
+        "name": "Sharon den Adel",
+        "id": 3639859
+    },
+    {
+        "type": "Composer",
+        "name": "M. Nervo",
+        "id": 13659215
+    },
+    {
+        "type": "Composer",
+        "name": "O. Nervo",
+        "id": 13860465
+    },
+    {
+        "type": "Composer",
+        "name": "s. ellis bextor",
+        "id": 14382764
+    },
+    {
+        "type": "Composer",
+        "name": "Miriam Nervo",
+        "id": 13640254
+    },
+    {
+        "type": "Composer",
+        "name": "Olivia Nervo",
+        "id": 13851076
+    },
+    {
+        "type": "Remixer",
+        "name": "Avicii",
+        "id": 3637201
+    },
+    {
+        "type": "Composer",
+        "name": "Justine Suissa",
+        "id": 3569302
+    },
+    {
+        "type": "Lyricist",
+        "name": "Justine Suissa",
+        "id": 3569302
+    },
+    {
+        "type": "Composer",
+        "name": "Raz Nitzan",
+        "id": 6343822
+    },
+    {
+        "type": "Composer",
+        "name": "Adrian Broekhuyse",
+        "id": 11070045
+    },
+    {
+        "type": "Producer",
+        "name": "Miri Ben-Ari",
+        "id": 24913
+    },
+    {
+        "type": "Composer",
+        "name": "Miri Ben-Ari",
+        "id": 24913
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Nadia Ali",
+        "id": 3625299
+    },
+    {
+        "type": "Composer",
+        "name": "S. De Kroon",
+        "id": 14366613
+    },
+    {
+        "type": "Composer",
+        "name": "B. van der Weide",
+        "id": 11564468
+    },
+    {
+        "type": "Composer",
+        "name": "D. Huige",
+        "id": 11938243
+    },
+    {
+        "type": "Composer",
+        "name": "P. Bukkens",
+        "id": 13947784
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Racoon",
+        "id": 36051
+    },
+    {
+        "type": "Composer",
+        "name": "R. WILSON",
+        "id": 14292681
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Ray Wilson",
+        "id": 3637983
+    },
+    {
+        "type": "Composer",
+        "name": "J. Vayne",
+        "id": 13041844
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Jan Vayne",
+        "id": 3540320
+    },
+    {
+        "type": "Composer",
+        "name": "C.jones",
+        "id": 11718422
+    },
+    {
+        "type": "Composer",
+        "name": "R. P. Shah",
+        "id": 14269615
+    },
+    {
+        "type": "Remixer",
+        "name": "Armin van Buuren",
+        "id": 3521263
+    },
+    {
+        "type": "Featured Artist",
+        "name": "Chris Jones",
+        "id": 3569287
+    },
+    {
+        "type": "Composer",
+        "name": "A. Petrillo",
+        "id": 11280750
+    },
+    {
+        "type": "Composer",
+        "name": "N. Kadosh",
+        "id": 13804208
+    },
+    {
+        "type": "Composer",
+        "name": "Duck Blackwell",
+        "id": 12033312
+    }
+]
